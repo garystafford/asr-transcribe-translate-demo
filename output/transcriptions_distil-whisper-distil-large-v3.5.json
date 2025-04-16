@@ -1,0 +1,3554 @@
+{
+    "results": [
+        {
+            "text": " You don't go fishing tomorrow? I got a colonoscopy tomorrow. Fellas, I accidentally threw a lame party. Okay, Ted. They're on their way. They're here. You call this a party? Call this egg party. Launch. Launch. And here's our metaphor for an invitation. Is that our leaf blower? Party at the stack! You are cordially invited to the end of the cul-de-sac. Yay! This is incredible. Your mower smokes meat? Oh, a smoker cuts grass. Hell yeah. I spent most of my money on this. New rig? Holy custom. How many bud lights can you fit in that, Puppet? As many bud lights as it takes. A lot of bud lights. It's called a Satch Popper. Bill, get off the boat. The HOA is already breathing down my neck.",
+            "chunks": [
+                {
+                    "timestamp": [
+                        0.0,
+                        1.5
+                    ],
+                    "text": " You don't go fishing tomorrow?"
+                },
+                {
+                    "timestamp": [
+                        1.5,
+                        3.5
+                    ],
+                    "text": " I got a colonoscopy tomorrow."
+                },
+                {
+                    "timestamp": [
+                        5.5,
+                        7.5
+                    ],
+                    "text": " Fellas, I accidentally threw a lame party."
+                },
+                {
+                    "timestamp": [
+                        7.5,
+                        8.5
+                    ],
+                    "text": " Okay, Ted."
+                },
+                {
+                    "timestamp": [
+                        8.5,
+                        10.5
+                    ],
+                    "text": " They're on their way."
+                },
+                {
+                    "timestamp": [
+                        14.5,
+                        15.5
+                    ],
+                    "text": " They're here."
+                },
+                {
+                    "timestamp": [
+                        15.5,
+                        17.5
+                    ],
+                    "text": " You call this a party?"
+                },
+                {
+                    "timestamp": [
+                        17.5,
+                        19.5
+                    ],
+                    "text": " Call this egg party."
+                },
+                {
+                    "timestamp": [
+                        19.5,
+                        20.5
+                    ],
+                    "text": " Launch."
+                },
+                {
+                    "timestamp": [
+                        20.5,
+                        21.5
+                    ],
+                    "text": " Launch."
+                },
+                {
+                    "timestamp": [
+                        21.5,
+                        23.5
+                    ],
+                    "text": " And here's our metaphor for an invitation."
+                },
+                {
+                    "timestamp": [
+                        23.5,
+                        24.5
+                    ],
+                    "text": " Is that our leaf blower?"
+                },
+                {
+                    "timestamp": [
+                        46.0,
+                        47.0
+                    ],
+                    "text": " Party at the stack! You are cordially invited to the end of the cul-de-sac. Yay! This is incredible. Your mower smokes meat? Oh, a smoker cuts grass. Hell yeah. I spent most of my money on this. New rig? Holy custom. How many bud lights can you fit in that, Puppet? As many bud lights as it takes."
+                },
+                {
+                    "timestamp": [
+                        47.0,
+                        48.0
+                    ],
+                    "text": " A lot of bud lights."
+                },
+                {
+                    "timestamp": [
+                        48.0,
+                        51.0
+                    ],
+                    "text": " It's called a Satch Popper."
+                },
+                {
+                    "timestamp": [
+                        51.0,
+                        56.0
+                    ],
+                    "text": " Bill, get off the boat."
+                },
+                {
+                    "timestamp": [
+                        56.0,
+                        58.0
+                    ],
+                    "text": " The HOA is already breathing down my neck."
+                }
+            ],
+            "audio_file": "2025 Bud Light Super Bowl Commercial Big Men On Cul-De-Sac Easy To Drink, Easy To Enjoy 60.mp3",
+            "translation_german": "Geht ihr morgen nicht angeln? Ich habe morgen eine Darmspiegelung. Leute, ich habe versehentlich eine lahme Party veranstaltet. Okay, Ted. Sie sind unterwegs. Sie sind hier. Nennst du das eine Party? Nennen Sie diese Eierparty. Start. Start. Und hier ist unsere Metapher für eine Einladung. Ist das unser Blattbläser? Party am Stapel! Du bist herzlich eingeladen, am Ende der Sackgasse zu sitzen. Yay! Das ist unglaublich. Dein Mähger raucht Fleisch? Oh, ein Raucher schneidet Gras. Verdammt, ja. Ich habe das meiste Geld dafür ausgegeben. Neues Gerät? Heiliger Brauch. Wie viele Knospenlichter kannst du darin stecken, Puppet? So viele Knospenlichter wie nötig. Viele Lichter. Es heißt ein Knospenlicht. Bill Popper, setz dich schon auf den Rücken. Das Boot atmet.",
+            "translation_chinese": "你明天不去鱼吗?明天我做结肠镜.伙计们,我不小心举办了一个的派对.好吧,泰德.他们正在路上.他们来了.你称之为派对吗?称之为蛋派对.发射.发射.这里是我们的比喻,邀请.这是我们的叶子吹风机吗?堆上的派对!你亲切邀请到死胡同的尽头.!这太不可思议了.你的割草机吸肉吗?,一个吸草者砍草.,是的.我花了大部分钱在这里.新?神圣的定制.你能装多少个芽灯,?需要多少个芽灯.很多灯.它叫做一个芽灯.,已经坐下来.船上正在呼吸."
+        },
+        {
+            "text": " Hey, grab me one too. I think I'm wrong, wrong, wrong, wrong.",
+            "chunks": [
+                {
+                    "timestamp": [
+                        0.0,
+                        null
+                    ],
+                    "text": " Hey, grab me one too. I think I'm wrong, wrong, wrong, wrong."
+                }
+            ],
+            "audio_file": "All the Best Moments are Better With Pepsi.mp3",
+            "translation_german": "Ich denke, ich habe mich geirrt.",
+            "translation_chinese": "你给我一个吧,我认为我错了,错了,错了,错了."
+        },
+        {
+            "text": " Ladies and gentlemen, if I have made an urgent problem, we have more than 60 tons of toxic toxins on our arms, of acetone, of cadmium, of ammonia. We need to absolutely find a solution to us and get rid of them. I wait for your proposals. We can't get them in a factory of retreatment. No, we're too expensive. We'll do it like the last time. We'll buy them in a terrain and we'll get them to a factory in a retreating facility. No, we're too expensive. We'll do it like the last time. We'll buy a land and we'll get them discreetly. No, but it's finished at this time. We'll have the ecolo on the back of the 24 hours. They'll get us back to a country where we look at them. No, but that's all. You could not find a solution more simple, more economical, more efficient? And if we were to give them to people? Available. But it's all these things. They're just going to be able to give them to people? Available. It's just disgusting. They will get us into it. No, no, no, no. A little dose, a little every day. They will get us into nothing. The all is to get them as soon as possible. With young, for example, in marketing, the guys who have suggested that these cool rebels, it works at all. But that would present how about your thing, there? it works at all. But how would that be? I think I see quite well how that could be. Arsenic, acetone, DDT, ammonia, polonium-210. Fumé is to serve as a discharge of the worst product. Don't you make me roll it by the cigarette. It will cost you how much money? Well, nothing. The young people are ready to pay for it to eat.",
+            "chunks": [
+                {
+                    "timestamp": [
+                        0.0,
+                        6.0
+                    ],
+                    "text": " Ladies and gentlemen, if I have made an urgent problem,"
+                },
+                {
+                    "timestamp": [
+                        6.0,
+                        10.0
+                    ],
+                    "text": " we have more than 60 tons of toxic toxins on our arms,"
+                },
+                {
+                    "timestamp": [
+                        10.0,
+                        14.0
+                    ],
+                    "text": " of acetone, of cadmium, of ammonia."
+                },
+                {
+                    "timestamp": [
+                        14.0,
+                        18.0
+                    ],
+                    "text": " We need to absolutely find a solution to us and get rid of them."
+                },
+                {
+                    "timestamp": [
+                        18.0,
+                        21.0
+                    ],
+                    "text": " I wait for your proposals."
+                },
+                {
+                    "timestamp": [
+                        21.0,
+                        23.0
+                    ],
+                    "text": " We can't get them in a factory of retreatment."
+                },
+                {
+                    "timestamp": [
+                        23.0,
+                        25.0
+                    ],
+                    "text": " No, we're too expensive. We'll do it like the last time. We'll buy them in a terrain and we'll get them to a factory in a retreating facility. No, we're too expensive."
+                },
+                {
+                    "timestamp": [
+                        25.0,
+                        29.0
+                    ],
+                    "text": " We'll do it like the last time. We'll buy a land and we'll get them discreetly."
+                },
+                {
+                    "timestamp": [
+                        29.0,
+                        33.0
+                    ],
+                    "text": " No, but it's finished at this time. We'll have the ecolo on the back of the 24 hours."
+                },
+                {
+                    "timestamp": [
+                        33.0,
+                        35.0
+                    ],
+                    "text": " They'll get us back to a country where we look at them."
+                },
+                {
+                    "timestamp": [
+                        35.0,
+                        37.0
+                    ],
+                    "text": " No, but that's all."
+                },
+                {
+                    "timestamp": [
+                        37.0,
+                        41.0
+                    ],
+                    "text": " You could not find a solution more simple, more economical, more efficient?"
+                },
+                {
+                    "timestamp": [
+                        41.0,
+                        44.0
+                    ],
+                    "text": " And if we were to give them to people?"
+                },
+                {
+                    "timestamp": [
+                        47.0,
+                        50.0
+                    ],
+                    "text": " Available. But it's all these things. They're just going to be able to give them to people? Available. It's just disgusting. They will get us into it."
+                },
+                {
+                    "timestamp": [
+                        50.0,
+                        52.0
+                    ],
+                    "text": " No, no, no, no. A little dose, a little every day."
+                },
+                {
+                    "timestamp": [
+                        52.0,
+                        54.0
+                    ],
+                    "text": " They will get us into nothing."
+                },
+                {
+                    "timestamp": [
+                        54.0,
+                        57.0
+                    ],
+                    "text": " The all is to get them as soon as possible."
+                },
+                {
+                    "timestamp": [
+                        57.0,
+                        60.0
+                    ],
+                    "text": " With young, for example, in marketing,"
+                },
+                {
+                    "timestamp": [
+                        60.0,
+                        64.0
+                    ],
+                    "text": " the guys who have suggested that these cool rebels, it works at all."
+                },
+                {
+                    "timestamp": [
+                        64.0,
+                        66.04
+                    ],
+                    "text": " But that would present how about your thing, there? it works at all. But how would that be?"
+                },
+                {
+                    "timestamp": [
+                        66.94,
+                        69.18
+                    ],
+                    "text": " I think I see quite well how that could be."
+                },
+                {
+                    "timestamp": [
+                        70.5,
+                        74.26
+                    ],
+                    "text": " Arsenic, acetone, DDT, ammonia, polonium-210."
+                },
+                {
+                    "timestamp": [
+                        74.78,
+                        77.22
+                    ],
+                    "text": " Fumé is to serve as a discharge of the worst product."
+                },
+                {
+                    "timestamp": [
+                        77.74,
+                        79.26
+                    ],
+                    "text": " Don't you make me roll it by the cigarette."
+                },
+                {
+                    "timestamp": [
+                        79.66,
+                        81.3
+                    ],
+                    "text": " It will cost you how much money?"
+                },
+                {
+                    "timestamp": [
+                        81.72,
+                        82.12
+                    ],
+                    "text": " Well, nothing."
+                },
+                {
+                    "timestamp": [
+                        82.84,
+                        84.04
+                    ],
+                    "text": " The young people are ready to pay for it to eat."
+                }
+            ],
+            "audio_file": "Anti-Smoking Commercial French.mp3",
+            "translation_german": "Meine Damen und Herren, wenn ich ein dringendes Problem habe, haben wir mehr als 60 Tonnen giftiger Toxine in unseren Armen, Aceton, Cadmium, Ammoniak. Wir müssen absolut eine Lösung finden und sie loswerden. Ich warte auf Ihre Vorschläge. Wir können sie nicht in einer Rückbehandlungsfabrik bekommen. Nein, wir sind zu teuer. Wir werden es wie letztes Mal tun. Wir werden sie in einem Gelände kaufen und wir werden sie in eine Fabrik in einer Rückbehandlungsstätte bringen. Nein, wir sind zu teuer. Wir werden es wie beim letzten Mal tun. Wir werden Land kaufen und wir werden sie diskret bekommen. Nein, aber es ist jetzt fertig. Wir werden die Ökologie in den letzten 24 Stunden haben. Sie werden nichts sehen, um eine Dosis zurück in ein Land zu bekommen, in dem wir nichts abkühlen. Nein, wir machen nichts, aber nichts. Es ist nicht so einfach wie beim letzten Mal. Wir kaufen sie in einem Gelände und wir bringen sie in eine Rückbehandlungsstätte. Nein, wir sind zu teuer. Wir kaufen ein Land und wir bekommen sie diskret. Nein, aber es ist fertig. Wir werden die Ökologie hinter den 24 Stunden haben. Sie werden nichts sehen, wo wir sie in ein wenig Polonium entlassen. Nein, das ist nichts. Ich bin nicht so",
+            "translation_chinese": ",,.如果我提出了紧急问题,我们手臂上有超过60的有毒毒素,,,.我们绝对需要找到解决方案,摆脱它们.我等待你们的建议.我们不能把它们送到一个处理厂.不,我们太贵了.我们会像上次一样.我们会在地形上买它们,我们会把它们送到一个处理设施的工厂.不,我们太贵了.我们会像上次一样.我们会买一块土地,我们会谨慎地得到它们.不,但它现在已经完成了.我们会在24小时后的生态环境中得到它们.他们会看到一个剂量.我们每天都不会放弃它们.不,我们没有什么.你认为这一切都会给我们带来更简单的解决方案.但是,如果我们给这些年轻人提供这些东西,他们会如何更有效地销售它们?不,不,不,不,不,不,不,不,不,不.但他们会给我们一个很简单的解决方案.如果我们给他们带来这些东西,我们就会有更多的钱.但是,不,不,不,不,不,不,不,不,不,不.不,不,不.不,不,不,不"
+        },
+        {
+            "text": " Everyone has made Choices they regret And I've made a few Like letting go a few Time has passed me by Without you by my side When I think of all that's gone You're still the one You can never let it go Cause you know for sure We've never thought We'll need you more Still those times Like coming our way Still those times We're coming our way",
+            "chunks": [
+                {
+                    "timestamp": [
+                        0.0,
+                        4.0
+                    ],
+                    "text": " Everyone has made"
+                },
+                {
+                    "timestamp": [
+                        6.0,
+                        10.0
+                    ],
+                    "text": " Choices they regret"
+                },
+                {
+                    "timestamp": [
+                        11.0,
+                        14.0
+                    ],
+                    "text": " And I've made a few"
+                },
+                {
+                    "timestamp": [
+                        15.0,
+                        18.0
+                    ],
+                    "text": " Like letting go a few"
+                },
+                {
+                    "timestamp": [
+                        23.0,
+                        25.34
+                    ],
+                    "text": " Time has passed me by"
+                },
+                {
+                    "timestamp": [
+                        25.34,
+                        29.46
+                    ],
+                    "text": " Without you by my side"
+                },
+                {
+                    "timestamp": [
+                        29.46,
+                        34.76
+                    ],
+                    "text": " When I think of all that's gone"
+                },
+                {
+                    "timestamp": [
+                        34.76,
+                        38.56
+                    ],
+                    "text": " You're still the one"
+                },
+                {
+                    "timestamp": [
+                        38.56,
+                        48.62
+                    ],
+                    "text": " You can never let it go"
+                },
+                {
+                    "timestamp": [
+                        48.62,
+                        50.84
+                    ],
+                    "text": " Cause you know for sure"
+                },
+                {
+                    "timestamp": [
+                        50.84,
+                        52.5
+                    ],
+                    "text": " We've never thought"
+                },
+                {
+                    "timestamp": [
+                        52.5,
+                        54.42
+                    ],
+                    "text": " We'll need you more"
+                },
+                {
+                    "timestamp": [
+                        54.42,
+                        56.38
+                    ],
+                    "text": " Still those times"
+                },
+                {
+                    "timestamp": [
+                        56.38,
+                        58.78
+                    ],
+                    "text": " Like coming our way"
+                },
+                {
+                    "timestamp": [
+                        58.78,
+                        60.26
+                    ],
+                    "text": " Still those times"
+                },
+                {
+                    "timestamp": [
+                        60.26,
+                        null
+                    ],
+                    "text": " We're coming our way"
+                }
+            ],
+            "audio_file": "Bring back the energy Volkswagen.mp3",
+            "translation_german": "Jeder hat Entscheidungen getroffen, die er bereut und ich habe ein paar getroffen, wie loslassen, ein paar Tage sind vergangen, ohne dass du an meiner Seite bist, wenn ich an alles denke, was weg ist, du bist immer noch derjenige, den du nie loslassen kannst, weil du sicher weißt, wir haben nie gedacht, dass wir dich mehr brauchen werden, immer noch diese Zeiten, wie sie auf uns zukommen, immer noch diese Zeiten, die wir auf uns zukommen.",
+            "translation_chinese": "每个人都做过他们后悔的选择,我做过一些,像放手,一些时间过去了,没有你在我身边,当我想到一切都走了,你仍然是那个,你永远不能放手,因为你知道,我们从来没有想过我们会更需要你."
+        },
+        {
+            "text": " Music Hi, Maddie! What was this building for you? It's a building that has big windows and lots of light. I don't understand. Did I use something wrong? Are you breaking up with me? Slow, slow, and steady. I didn't know if you were. Slow and steady. The train is the official sudden van to call the... Maddie. Daddy.",
+            "chunks": [
+                {
+                    "timestamp": [
+                        0.0,
+                        22.0
+                    ],
+                    "text": " Music"
+                },
+                {
+                    "timestamp": [
+                        22.0,
+                        23.0
+                    ],
+                    "text": " Hi, Maddie!"
+                },
+                {
+                    "timestamp": [
+                        23.0,
+                        24.0
+                    ],
+                    "text": " What was this building for you?"
+                },
+                {
+                    "timestamp": [
+                        24.0,
+                        26.78
+                    ],
+                    "text": " It's a building that has big windows and lots of light."
+                },
+                {
+                    "timestamp": [
+                        29.0,
+                        30.08
+                    ],
+                    "text": " I don't understand."
+                },
+                {
+                    "timestamp": [
+                        30.18,
+                        31.04
+                    ],
+                    "text": " Did I use something wrong?"
+                },
+                {
+                    "timestamp": [
+                        31.92,
+                        33.38
+                    ],
+                    "text": " Are you breaking up with me?"
+                },
+                {
+                    "timestamp": [
+                        42.56,
+                        44.22
+                    ],
+                    "text": " Slow, slow, and steady."
+                },
+                {
+                    "timestamp": [
+                        53.24,
+                        null
+                    ],
+                    "text": " I didn't know if you were. Slow and steady. The train is the official sudden van to call the... Maddie. Daddy."
+                }
+            ],
+            "audio_file": "Chevy Commercial - Maddie.mp3",
+            "translation_german": "Musik Hallo, Maddie! Was war dieses Gebäude für dich? Es ist ein Gebäude mit großen Fenstern und viel Licht. Ich verstehe nicht. Habe ich etwas falsch benutzt? Trennst du dich von mir? Langsam, langsam und ruhig. Ich wusste nicht, ob du es warst. Langsam und ruhig. Der Zug ist der offizielle plötzliche Van, um die zu rufen... Maddie. Daddy.",
+            "translation_chinese": "音乐你好,玛迪!这座建筑对你来说是什么?这是一个有大窗户和很多光的建筑.我不明白.我用错了吗?你和我分手吗?慢慢,慢慢,稳定.我不知道你是不是.慢慢,稳定.火车是正式的突然货车,叫...玛迪.爸爸."
+        },
+        {
+            "text": " Mr. Cow. Yes? How many licks does it take to get to the Tootsie Roll Center of a Tootsie Puff? I don't know. I always end up biting. Ask Mr. Fox for he's much clever than I. Mr. Fox, how many licks does it take to get to the Tootsie Roll Center of a Tootsie Puff? Why don't you ask Mr. Turtle for he's been around a lot longer than I. Me? I bite. Mr. Turtle, how many licks does it take to get to the Tootsie Roll Center of a Tootsie Pop? I never made it without biting. Ask Mr. Owl, for he is the wisest of us all. Mr. Owl, how many licks does it take to get to the Tootsie Roll Center of a Tootsie Pop? A good question. Let's find out. One, two, three, three. If there's anything I can't stand, it's a smart owl. How many licks does it take to get to the tootsie roll center of a tootsie pop? The world may never know.",
+            "chunks": [
+                {
+                    "timestamp": [
+                        0.0,
+                        2.84
+                    ],
+                    "text": " Mr. Cow."
+                },
+                {
+                    "timestamp": [
+                        2.94,
+                        3.52
+                    ],
+                    "text": " Yes?"
+                },
+                {
+                    "timestamp": [
+                        3.86,
+                        7.46
+                    ],
+                    "text": " How many licks does it take to get to the Tootsie Roll Center of a Tootsie Puff?"
+                },
+                {
+                    "timestamp": [
+                        7.52,
+                        9.88
+                    ],
+                    "text": " I don't know. I always end up biting."
+                },
+                {
+                    "timestamp": [
+                        10.4,
+                        13.28
+                    ],
+                    "text": " Ask Mr. Fox for he's much clever than I."
+                },
+                {
+                    "timestamp": [
+                        13.6,
+                        18.24
+                    ],
+                    "text": " Mr. Fox, how many licks does it take to get to the Tootsie Roll Center of a Tootsie Puff?"
+                },
+                {
+                    "timestamp": [
+                        18.36,
+                        22.12
+                    ],
+                    "text": " Why don't you ask Mr. Turtle for he's been around a lot longer than I."
+                },
+                {
+                    "timestamp": [
+                        22.44,
+                        24.12
+                    ],
+                    "text": " Me? I bite."
+                },
+                {
+                    "timestamp": [
+                        24.76,
+                        26.42
+                    ],
+                    "text": " Mr. Turtle, how many"
+                },
+                {
+                    "timestamp": [
+                        26.42,
+                        28.24
+                    ],
+                    "text": " licks does it take to get to the Tootsie Roll"
+                },
+                {
+                    "timestamp": [
+                        28.24,
+                        29.62
+                    ],
+                    "text": " Center of a Tootsie Pop?"
+                },
+                {
+                    "timestamp": [
+                        29.76,
+                        31.64
+                    ],
+                    "text": " I never made it without biting."
+                },
+                {
+                    "timestamp": [
+                        32.16,
+                        34.7
+                    ],
+                    "text": " Ask Mr. Owl, for he is the wisest"
+                },
+                {
+                    "timestamp": [
+                        34.7,
+                        36.82
+                    ],
+                    "text": " of us all. Mr. Owl,"
+                },
+                {
+                    "timestamp": [
+                        37.14,
+                        39.58
+                    ],
+                    "text": " how many licks does it take to get to the Tootsie Roll"
+                },
+                {
+                    "timestamp": [
+                        39.58,
+                        40.98
+                    ],
+                    "text": " Center of a Tootsie Pop?"
+                },
+                {
+                    "timestamp": [
+                        41.18,
+                        44.12
+                    ],
+                    "text": " A good question. Let's find"
+                },
+                {
+                    "timestamp": [
+                        44.12,
+                        51.2
+                    ],
+                    "text": " out. One, two, three, three. If there's anything I can't"
+                },
+                {
+                    "timestamp": [
+                        51.2,
+                        57.2
+                    ],
+                    "text": " stand, it's a smart owl. How many licks does it take to get to the tootsie roll center of a tootsie pop?"
+                },
+                {
+                    "timestamp": [
+                        57.76,
+                        60.02
+                    ],
+                    "text": " The world may never know."
+                }
+            ],
+            "audio_file": "Classic Tootsie Roll Commercial - How Many Licks.mp3",
+            "translation_german": "Mr. Cow. Ja? Wie viele Lickungen braucht es, um zum Tootsie Roll Center eines Tootsie Puffs zu gelangen? Ich weiß nicht. Ich beiße immer. Fragt Mr. Fox, denn er ist viel klüger als ich. Mr. Fox, wie viele Lickungen braucht es, um zum Tootsie Roll Center eines Tootsie Puffs zu gelangen? Warum fragt ihr nicht Mr. Turtle, denn er ist viel länger da als ich? Ich beiße. Mr. Turtle, wie viele Lickungen braucht es, um zum Tootsie Roll Center eines Tootsie Pops zu gelangen? Ich habe es nie ohne zu beißen geschafft. Fragt Mr. Owl, denn er ist der klügste von uns allen. Mr. Owl, wie viele Lickungen braucht es, um zum Tootsie Roll Center eines Tootsie Puffs zu gelangen? Eine gute Frage. Lass uns zwei fragen: Wie kann ich eine Welt finden, in der es nie genug drei Rollen gibt? Wenn es zwei ist, kann ich nie herausfinden, wie viele es sind, um eine Owl aus drei Rollen zu bekommen?",
+            "translation_chinese": "牛先生.是的.要到一个子的子中心需要多少次?我不知道.我总是会咬.问狐先生,因为他比我聪明得多.狐先生,要到一个子的子中心需要多少次?你为什么不问乌先生,因为他比我长得多?我咬.乌先生,要到一个子的子中心需要多少次?我从来没有没有咬过.问先生,因为他是我们中最聪明的.先生,要到一个子的子中心需要多少次?一个好问题.让我们来问一下,如果一个子从三个子中站起来,我怎么能发现?如果一个子从三个子中站起来,我可能永远不会发现什么."
+        },
+        {
+            "text": " Good boy. Hey, Bruce. You don't mind if I just take this last coke, do you? Thanks, Mike! Oh, you do, Mike. Sorry! Sorry! Hey, Mike! Sorry! Hey! Hey! Hey! Hey! Hey! Hey! Hey! Hey! Hey! Oh, you do, Mike. Sorry! Kind of. Hey, minikand, cover through. Dead end. Not awesome. Okay, okay. Wow, so angry. Oh, you poor sad Hulk. Hold on. Wow, you have the greenest eyes.",
+            "chunks": [
+                {
+                    "timestamp": [
+                        0.0,
+                        1.0
+                    ],
+                    "text": " Good boy."
+                },
+                {
+                    "timestamp": [
+                        1.0,
+                        2.0
+                    ],
+                    "text": " Hey, Bruce."
+                },
+                {
+                    "timestamp": [
+                        2.0,
+                        15.0
+                    ],
+                    "text": " You don't mind if I just take this last coke, do you?"
+                },
+                {
+                    "timestamp": [
+                        15.0,
+                        16.0
+                    ],
+                    "text": " Thanks, Mike!"
+                },
+                {
+                    "timestamp": [
+                        16.0,
+                        17.0
+                    ],
+                    "text": " Oh, you do, Mike."
+                },
+                {
+                    "timestamp": [
+                        17.0,
+                        18.0
+                    ],
+                    "text": " Sorry!"
+                },
+                {
+                    "timestamp": [
+                        18.0,
+                        19.0
+                    ],
+                    "text": " Sorry!"
+                },
+                {
+                    "timestamp": [
+                        19.0,
+                        20.0
+                    ],
+                    "text": " Hey, Mike!"
+                },
+                {
+                    "timestamp": [
+                        20.0,
+                        21.0
+                    ],
+                    "text": " Sorry!"
+                },
+                {
+                    "timestamp": [
+                        21.0,
+                        22.0
+                    ],
+                    "text": " Hey!"
+                },
+                {
+                    "timestamp": [
+                        22.0,
+                        23.0
+                    ],
+                    "text": " Hey!"
+                },
+                {
+                    "timestamp": [
+                        23.0,
+                        24.0
+                    ],
+                    "text": " Hey!"
+                },
+                {
+                    "timestamp": [
+                        24.0,
+                        27.6
+                    ],
+                    "text": " Hey! Hey! Hey! Hey! Hey! Hey! Oh, you do, Mike. Sorry! Kind of."
+                },
+                {
+                    "timestamp": [
+                        29.1,
+                        30.62
+                    ],
+                    "text": " Hey, minikand, cover through."
+                },
+                {
+                    "timestamp": [
+                        31.3,
+                        32.08
+                    ],
+                    "text": " Dead end."
+                },
+                {
+                    "timestamp": [
+                        33.16,
+                        36.92
+                    ],
+                    "text": " Not awesome."
+                },
+                {
+                    "timestamp": [
+                        37.96,
+                        38.52
+                    ],
+                    "text": " Okay, okay."
+                },
+                {
+                    "timestamp": [
+                        39.62,
+                        47.76
+                    ],
+                    "text": " Wow, so angry. Oh, you poor sad Hulk. Hold on."
+                },
+                {
+                    "timestamp": [
+                        53.52,
+                        56.7
+                    ],
+                    "text": " Wow, you have the greenest eyes."
+                }
+            ],
+            "audio_file": "Coca-Cola Super Bowl 50 Commercial Hulk vs. Ant Man vs. Coke Mini.mp3",
+            "translation_german": "Gutes Kind. Hey, Bruce. Macht es dir nichts aus, wenn ich mir das letzte Kokschen nehme? Danke, Mike! Oh, du, Mike. Tut mir leid! Tut mir leid! Hey, Mike! Tut mir leid! Hey! Hey! Hey! Hey! Hey! Hey! Oh, du, Mike. Tut mir leid! Etwas. Hey, Kleines, deck durch. Sackgasse. Nicht toll. Okay, okay. Wow, so wütend. Oh, du arme traurige Hulk. Warte. Wow, du hast die grünsten Augen.",
+            "translation_chinese": "好小伙子.,布鲁斯.我拿上最后一支可乐,你不介意吗?谢谢,迈克!,你做了,迈克.抱歉!抱歉!,迈克!抱歉!!!!!!!!!,你做了,迈克.抱歉!有点.,小孩,遮住.死胡同.不太棒.好吧.,很生气.,你可怜的悲伤的哈尔克.等待.,你最绿的眼睛."
+        },
+        {
+            "text": " I'd like to buy the world a home and furnish it with love. Grow apple trees and honeybees and snow white turtle doves. I'd like to teach the world to sing with me. Perfect harmony, perfect harmony. I'd like to buy the world a of Coke and keep it company. I like to eat the world of Coke and I'd like to eat the world of Coke. You've heard it, hey, hominy and I'd like to buy the world of Coke and keep it company. It's the real thing. What the world wants today. It's the real thing. What the world wants today. It's the real thing.",
+            "chunks": [
+                {
+                    "timestamp": [
+                        0.0,
+                        7.0
+                    ],
+                    "text": " I'd like to buy the world a home and furnish it with love."
+                },
+                {
+                    "timestamp": [
+                        7.0,
+                        15.0
+                    ],
+                    "text": " Grow apple trees and honeybees and snow white turtle doves."
+                },
+                {
+                    "timestamp": [
+                        15.0,
+                        19.0
+                    ],
+                    "text": " I'd like to teach the world to sing with me."
+                },
+                {
+                    "timestamp": [
+                        19.0,
+                        22.0
+                    ],
+                    "text": " Perfect harmony, perfect harmony."
+                },
+                {
+                    "timestamp": [
+                        22.0,
+                        28.0
+                    ],
+                    "text": " I'd like to buy the world a of Coke and keep it company."
+                },
+                {
+                    "timestamp": [
+                        28.0,
+                        33.0
+                    ],
+                    "text": " I like to eat the world of Coke and I'd like to eat the world of Coke."
+                },
+                {
+                    "timestamp": [
+                        33.0,
+                        42.0
+                    ],
+                    "text": " You've heard it, hey, hominy and I'd like to buy the world of Coke and keep it company."
+                },
+                {
+                    "timestamp": [
+                        42.0,
+                        45.6
+                    ],
+                    "text": " It's the real thing."
+                },
+                {
+                    "timestamp": [
+                        48.48,
+                        49.74
+                    ],
+                    "text": " What the world wants today."
+                },
+                {
+                    "timestamp": [
+                        51.56,
+                        53.0
+                    ],
+                    "text": " It's the real thing."
+                },
+                {
+                    "timestamp": [
+                        55.56,
+                        56.56
+                    ],
+                    "text": " What the world wants today."
+                },
+                {
+                    "timestamp": [
+                        58.68,
+                        null
+                    ],
+                    "text": " It's the real thing."
+                }
+            ],
+            "audio_file": "Coca-Cola, 1971 - 'Hilltop' - I'd like to buy the world a Coke.mp3",
+            "translation_german": "Ich möchte der Welt ein Zuhause kaufen und sie mit Liebe ausstatten. Apfelbäume und Honigbienen und schneeweiße Schildkrötentauben anbauen. Ich möchte der Welt beibringen, mit mir zu singen. Perfekte Harmonie, perfekte Harmonie. Ich möchte der Welt eine Cola kaufen und ihr Gesellschaft leisten. Ich mag die Welt der Cola essen und ich möchte die Welt der Cola essen. Du hast es gehört, hey, Hominy und ich würde die Welt der Cola kaufen und ihr Gesellschaft leisten. Das ist das Echte. Was die Welt heute will. Das ist das Echte. Was die Welt heute will. Das ist das Echte.",
+            "translation_chinese": "我希望给世界买一个家,用爱装饰它.种植果树,蜜蜂和白雪.我想教世界和我一起唱歌.完美和,完美和.我想给世界买一杯可乐,陪伴它.我喜欢吃可乐世界,我喜欢吃可乐世界.你听过,,家人,我希望买可乐世界,陪伴它.这是真实的.这是今天世界想要的.这是真实的.这是今天世界想要的.这是真实的.这是今天世界想要的.这是真实的."
+        },
+        {
+            "text": " Tina! Mita! Oh no. No. No. No, no, no, no, no, no, no, no. What the hell? What does?",
+            "chunks": [
+                {
+                    "timestamp": [
+                        0.0,
+                        2.0
+                    ],
+                    "text": " Tina!"
+                },
+                {
+                    "timestamp": [
+                        2.0,
+                        4.0
+                    ],
+                    "text": " Mita!"
+                },
+                {
+                    "timestamp": [
+                        4.0,
+                        6.0
+                    ],
+                    "text": " Oh no."
+                },
+                {
+                    "timestamp": [
+                        12.0,
+                        14.0
+                    ],
+                    "text": " No."
+                },
+                {
+                    "timestamp": [
+                        14.0,
+                        16.0
+                    ],
+                    "text": " No."
+                },
+                {
+                    "timestamp": [
+                        16.0,
+                        18.0
+                    ],
+                    "text": " No, no, no, no, no, no, no, no."
+                },
+                {
+                    "timestamp": [
+                        18.0,
+                        null
+                    ],
+                    "text": " What the hell? What does?"
+                }
+            ],
+            "audio_file": "Doritos Super Bowl Commercial 2024 Jenna Ortega Encounter Ad.mp3",
+            "translation_german": "Tina, Mita, nein, nein, nein, nein, nein, nein, nein, nein, was zum Teufel?",
+            "translation_chinese": "蒂娜!米塔!,不,不,不,不,不,不,不,不,不,不,不,不.该死的!有什么?"
+        },
+        {
+            "text": " Hey, Mr. Smith. Want to try out my time machine? It runs on Doritos. Sure. So now what? Gotta put the whole bag in. Okay. Yes. It's really working, Jimmy. This is the greatest moment of my life. Get it out of my yard! Jimmy? You're so old. It's the future!",
+            "chunks": [
+                {
+                    "timestamp": [
+                        0.0,
+                        1.0
+                    ],
+                    "text": " Hey, Mr. Smith."
+                },
+                {
+                    "timestamp": [
+                        1.66,
+                        3.14
+                    ],
+                    "text": " Want to try out my time machine?"
+                },
+                {
+                    "timestamp": [
+                        3.3,
+                        4.3
+                    ],
+                    "text": " It runs on Doritos."
+                },
+                {
+                    "timestamp": [
+                        4.78,
+                        5.22
+                    ],
+                    "text": " Sure."
+                },
+                {
+                    "timestamp": [
+                        6.32,
+                        7.22
+                    ],
+                    "text": " So now what?"
+                },
+                {
+                    "timestamp": [
+                        7.4,
+                        9.2
+                    ],
+                    "text": " Gotta put the whole bag in."
+                },
+                {
+                    "timestamp": [
+                        10.1,
+                        10.6
+                    ],
+                    "text": " Okay."
+                },
+                {
+                    "timestamp": [
+                        11.74,
+                        12.22
+                    ],
+                    "text": " Yes."
+                },
+                {
+                    "timestamp": [
+                        12.84,
+                        14.28
+                    ],
+                    "text": " It's really working, Jimmy."
+                },
+                {
+                    "timestamp": [
+                        16.42,
+                        18.92
+                    ],
+                    "text": " This is the greatest moment of my life."
+                },
+                {
+                    "timestamp": [
+                        18.92,
+                        20.72
+                    ],
+                    "text": " Get it out of my yard!"
+                },
+                {
+                    "timestamp": [
+                        23.42,
+                        24.04
+                    ],
+                    "text": " Jimmy?"
+                },
+                {
+                    "timestamp": [
+                        25.68,
+                        26.68
+                    ],
+                    "text": " You're so old."
+                },
+                {
+                    "timestamp": [
+                        28.68,
+                        30.08
+                    ],
+                    "text": " It's the future!"
+                }
+            ],
+            "audio_file": "Doritos Time Machine - Crash the Super Bowl 2014 WINNER OFFICIAL.mp3",
+            "translation_german": "Hey, Mr. Smith. Möchten Sie meine Zeitmaschine ausprobieren? Sie läuft mit Doritos. Klar. Und jetzt? Ich muss die ganze Tasche reinlegen. Okay. Ja. Es funktioniert wirklich, Jimmy.",
+            "translation_chinese": "史密斯先生.你想试试我的时间机器吗?它运行在多里托斯.当然.现在怎么办?我必须把整个袋子放进去.好吧.是的.它真的起作用,吉米.这是我生命中最伟大的时刻.把它从我的院子里拿走!吉米?你太老了.这是未来!"
+        },
+        {
+            "text": " I've got an idea for a Heinz ketchup commercial. I was at this super posh restaurant. Super posh. The type of place that has chandeliers and paintings on the wall and way too many corks. I think classical music was playing? Maybe it was jazz. No, definitely classical. The hostess walks up to me and she says, Mr Sheeran, is this your first time dining with us? And I say, yep. The waiter comes over. He's telling me about the specials. Super fancy, fancy vegetables, fancy sauces. I said, sounds fancy. So fast forward and the food comes. The waiter goes on to tell me, we are proud to present this farm to table, blah, blah, blah, posh and fancy, blah, blah, blah, blah, with a side of blah, blah, blah blah blah you know the food looked good I just thought there was something missing so I reach into my bag and I take out the only thing that can complete me and at that point the whole world came to a stop in the way to what's screaming through his eyes. So that's my idea. Do you want to do it?",
+            "chunks": [
+                {
+                    "timestamp": [
+                        0.0,
+                        4.0
+                    ],
+                    "text": " I've got an idea for a Heinz ketchup commercial."
+                },
+                {
+                    "timestamp": [
+                        4.0,
+                        7.0
+                    ],
+                    "text": " I was at this super posh restaurant. Super posh."
+                },
+                {
+                    "timestamp": [
+                        7.0,
+                        12.0
+                    ],
+                    "text": " The type of place that has chandeliers and paintings on the wall and way too many corks."
+                },
+                {
+                    "timestamp": [
+                        12.0,
+                        16.0
+                    ],
+                    "text": " I think classical music was playing? Maybe it was jazz."
+                },
+                {
+                    "timestamp": [
+                        16.0,
+                        18.0
+                    ],
+                    "text": " No, definitely classical."
+                },
+                {
+                    "timestamp": [
+                        18.0,
+                        20.0
+                    ],
+                    "text": " The hostess walks up to me and she says,"
+                },
+                {
+                    "timestamp": [
+                        20.0,
+                        23.0
+                    ],
+                    "text": " Mr Sheeran, is this your first time dining with us?"
+                },
+                {
+                    "timestamp": [
+                        23.0,
+                        45.64
+                    ],
+                    "text": " And I say, yep. The waiter comes over. He's telling me about the specials. Super fancy, fancy vegetables, fancy sauces. I said, sounds fancy. So fast forward and the food comes. The waiter goes on to tell me, we are proud to present this farm to table, blah, blah, blah, posh and fancy, blah, blah, blah, blah, with a side of blah, blah, blah blah blah you know the food looked good I"
+                },
+                {
+                    "timestamp": [
+                        45.64,
+                        49.84
+                    ],
+                    "text": " just thought there was something missing so I reach into my bag and I take out the"
+                },
+                {
+                    "timestamp": [
+                        49.84,
+                        54.94
+                    ],
+                    "text": " only thing that can complete me and at that point the whole world came to a"
+                },
+                {
+                    "timestamp": [
+                        54.94,
+                        65.54
+                    ],
+                    "text": " stop in the way to what's screaming through his eyes."
+                },
+                {
+                    "timestamp": [
+                        73.68,
+                        74.86
+                    ],
+                    "text": " So that's my idea."
+                },
+                {
+                    "timestamp": [
+                        75.68,
+                        76.52
+                    ],
+                    "text": " Do you want to do it?"
+                }
+            ],
+            "audio_file": "Ed's Heinz Ad.mp3",
+            "translation_german": "Ich habe eine Idee für eine Heinz Ketchup Werbung. Ich war in einem super schicken Restaurant. Super schicken. Der Typ Ort, der Kronleuchter und Gemälde an der Wand und viel zu viele Korken hat. Ich denke, klassische Musik spielte? Vielleicht war es Jazz. Nein, definitiv klassisch. Die Gastgeberin geht zu mir und sagt: \"Mr. Sheeran, ist das Ihr erstes Essen bei uns?\" Ich sage: \"Ja\". Der Kellner kommt vorbei. Er erzählt mir von den Spezialitäten. Super schicke, schicke Gemüse, schicke Soßen. Ich sagte: \"Klingt schicke\". So schnell vorwärts und das Essen kommt. Der Kellner erzählt mir weiter: \"Wir sind stolz, diese Farm vorzustellen, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla, bla",
+            "translation_chinese": "我有一个海因斯汁广告的想法. 我在一个超级高档餐厅. 超级高档. 这种地方墙上有吊灯和画画,太多的子. 我认为音乐是古典的? 可能是爵士乐. 不,肯定是古典的. 主播女儿走到我身边说,谢兰先生,这是你第一次和我们一起吃饭吗? 我说,是的.服务员走过来. 他告诉我关于特色. 超级高档,高档蔬菜,高档子. 我说,听起来很高档. 快进去,食物就来了.服务员告诉我,我们很自豪地把这个农场呈现给桌子, 布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布拉,布"
+        },
+        {
+            "text": " You're a chindy-chore, chindy-chore is a chindy-chore. Give me. Why do you always say to my brother? He said you'd like to call me to make him. So what happened? This loppard-jantus! He didn't call me to make him call. But your work has done. My brother did. No, he didn't. He did it. His seat was in three days. His leg was in three days. His leg was broken. What the hell happened? It was gone. It was. It was. His leg was broke. The leg broke. The leg broke. What the gaga got? It was. That was the way your mother was sitting. Her leg broke. No, Mom! She is so much dandos. She is a chubby-chow. She is a chubby-chow. She will be chubby-chow-y. Jeeja, Jee. She always calls me. She always has to say, She always asks, Do you always ask, Do you have a call or do you not?",
+            "chunks": [
+                {
+                    "timestamp": [
+                        0.0,
+                        3.0
+                    ],
+                    "text": " You're a chindy-chore, chindy-chore is a chindy-chore."
+                },
+                {
+                    "timestamp": [
+                        5.0,
+                        6.0
+                    ],
+                    "text": " Give me."
+                },
+                {
+                    "timestamp": [
+                        7.0,
+                        9.0
+                    ],
+                    "text": " Why do you always say to my brother?"
+                },
+                {
+                    "timestamp": [
+                        9.0,
+                        11.0
+                    ],
+                    "text": " He said you'd like to call me to make him."
+                },
+                {
+                    "timestamp": [
+                        11.0,
+                        12.0
+                    ],
+                    "text": " So what happened?"
+                },
+                {
+                    "timestamp": [
+                        12.0,
+                        13.0
+                    ],
+                    "text": " This loppard-jantus!"
+                },
+                {
+                    "timestamp": [
+                        13.0,
+                        15.0
+                    ],
+                    "text": " He didn't call me to make him call."
+                },
+                {
+                    "timestamp": [
+                        15.0,
+                        17.0
+                    ],
+                    "text": " But your work has done."
+                },
+                {
+                    "timestamp": [
+                        17.0,
+                        18.0
+                    ],
+                    "text": " My brother did."
+                },
+                {
+                    "timestamp": [
+                        18.0,
+                        19.0
+                    ],
+                    "text": " No, he didn't."
+                },
+                {
+                    "timestamp": [
+                        19.0,
+                        20.0
+                    ],
+                    "text": " He did it."
+                },
+                {
+                    "timestamp": [
+                        20.0,
+                        21.0
+                    ],
+                    "text": " His seat was in three days."
+                },
+                {
+                    "timestamp": [
+                        21.0,
+                        22.0
+                    ],
+                    "text": " His leg was in three days."
+                },
+                {
+                    "timestamp": [
+                        22.0,
+                        23.0
+                    ],
+                    "text": " His leg was broken."
+                },
+                {
+                    "timestamp": [
+                        23.0,
+                        24.0
+                    ],
+                    "text": " What the hell happened?"
+                },
+                {
+                    "timestamp": [
+                        24.0,
+                        25.0
+                    ],
+                    "text": " It was gone. It was. It was. His leg was broke. The leg broke. The leg broke. What the gaga got? It was."
+                },
+                {
+                    "timestamp": [
+                        25.0,
+                        27.0
+                    ],
+                    "text": " That was the way your mother was sitting."
+                },
+                {
+                    "timestamp": [
+                        27.0,
+                        29.0
+                    ],
+                    "text": " Her leg broke."
+                },
+                {
+                    "timestamp": [
+                        29.0,
+                        30.0
+                    ],
+                    "text": " No, Mom!"
+                },
+                {
+                    "timestamp": [
+                        30.0,
+                        32.0
+                    ],
+                    "text": " She is so much dandos."
+                },
+                {
+                    "timestamp": [
+                        32.0,
+                        34.0
+                    ],
+                    "text": " She is a chubby-chow."
+                },
+                {
+                    "timestamp": [
+                        34.0,
+                        35.0
+                    ],
+                    "text": " She is a chubby-chow."
+                },
+                {
+                    "timestamp": [
+                        35.0,
+                        36.0
+                    ],
+                    "text": " She will be chubby-chow-y."
+                },
+                {
+                    "timestamp": [
+                        36.0,
+                        38.0
+                    ],
+                    "text": " Jeeja, Jee."
+                },
+                {
+                    "timestamp": [
+                        38.0,
+                        40.0
+                    ],
+                    "text": " She always calls me."
+                },
+                {
+                    "timestamp": [
+                        40.0,
+                        41.0
+                    ],
+                    "text": " She always has to say,"
+                },
+                {
+                    "timestamp": [
+                        41.0,
+                        42.0
+                    ],
+                    "text": " She always asks,"
+                },
+                {
+                    "timestamp": [
+                        42.0,
+                        43.0
+                    ],
+                    "text": " Do you always ask,"
+                },
+                {
+                    "timestamp": [
+                        43.0,
+                        45.0
+                    ],
+                    "text": " Do you have a call or do you not?"
+                }
+            ],
+            "audio_file": "Fevicol - Jija Saala Ad No Chindichori Hindi.mp3",
+            "translation_german": "Du bist ein Chindy-Tore, Chindy-Tore ist ein Chindy-Tore. Gib mir. Warum sagst du immer zu meinem Bruder? Er sagte, du würdest mich anrufen wollen, um ihn zu machen. Was ist passiert? Dieser Lopard-jantus! Er hat mich nicht angerufen, um ihn anrufen zu lassen. Aber deine Arbeit ist getan. Mein Bruder hat. Nein, er hat es nicht getan. Er hat es getan. Sein Sitz war in drei Tagen. Sein Bein war in drei Tagen. Sein Bein war gebrochen. Was zum Teufel ist passiert? Es war weg. Es war. Sein Bein war gebrochen. Das Bein ist gebrochen. Das Bein ist gebrochen. Was ist gebrochen? Es war. So saß deine Mutter. Ihr Bein. Nein, Mom! Sie ist so dandos. Sie ist eine Schubby-chow. Sie ist eine Schubby-chow. Sie wird eine Schubby-chow. Jeeps, Jeeps. Sie ruft mich immer an, wie sie sagt.",
+            "translation_chinese": "你是一个,,,,.给我.你为什么总是对我哥哥说?他说你想叫我叫他.那么发生了什么?这个!他没有叫我叫他打电话.但是你的工作已经完成.我哥哥做了.不,他没有.他做了.他的座位是三天.他的腿是三天.他的腿是破碎的.该死的.它是消失的.它是.他的腿是破碎的.腿是破碎的.腿是破碎的.什么是?这是.这是你的母亲坐的方法.她的腿.不,!她是那么多的.她是一个胖.她是一个胖.她是一个胖.她会是一个胖.她总是叫我,你总是问,你有没有?"
+        },
+        {
+            "text": " Hi, Phil Swift here for Flex Tape, the super strong waterproof tape that can instantly patch bond seal and repair. Flex tape is no ordinary tape. Its triple thick adhesive virtually welds itself to the surface, instantly stopping the toughest leaks. Leaky pipes can cause major damage, but FlexTap grips on tight and bonds instantly. Plus, FlexTap's powerful adhesive is so strong, it even works underwater. Now you can repair leaks in pools and spas without draining them. Flex tape is perfect for marine, campers and RVs. Flex tape is super strong. And once it's on, it holds on tight. And for emergency auto repair, flex tape keeps its grip, even in the toughest conditions. Big storms can cause big damage. but flex tape comes super wide, so you can easily patch large holes. To show you the power of flex tape, I saw this boat in half and repaired it with only flex tape. Not only does flex tape powerful adhesive hold the boat together, but it creates a super strong watertight seal. So the inside is completely dry. Yes, I'll do it. Just cut, peel, stick, and seal. Imagine everything you can do with the power of flex tape.",
+            "chunks": [
+                {
+                    "timestamp": [
+                        0.0,
+                        19.0
+                    ],
+                    "text": " Hi, Phil Swift here for Flex Tape, the super strong waterproof tape that can instantly patch bond seal and repair."
+                },
+                {
+                    "timestamp": [
+                        19.0,
+                        21.0
+                    ],
+                    "text": " Flex tape is no ordinary tape."
+                },
+                {
+                    "timestamp": [
+                        21.0,
+                        25.92
+                    ],
+                    "text": " Its triple thick adhesive virtually welds itself to the surface, instantly stopping"
+                },
+                {
+                    "timestamp": [
+                        25.92,
+                        32.58
+                    ],
+                    "text": " the toughest leaks. Leaky pipes can cause major damage, but FlexTap grips on tight and bonds"
+                },
+                {
+                    "timestamp": [
+                        32.58,
+                        42.78
+                    ],
+                    "text": " instantly. Plus, FlexTap's powerful adhesive is so strong, it even works underwater. Now you can"
+                },
+                {
+                    "timestamp": [
+                        42.78,
+                        46.0
+                    ],
+                    "text": " repair leaks in pools and spas without draining them."
+                },
+                {
+                    "timestamp": [
+                        46.0,
+                        49.0
+                    ],
+                    "text": " Flex tape is perfect for marine, campers and RVs."
+                },
+                {
+                    "timestamp": [
+                        49.0,
+                        52.0
+                    ],
+                    "text": " Flex tape is super strong."
+                },
+                {
+                    "timestamp": [
+                        52.0,
+                        55.0
+                    ],
+                    "text": " And once it's on, it holds on tight."
+                },
+                {
+                    "timestamp": [
+                        55.0,
+                        61.0
+                    ],
+                    "text": " And for emergency auto repair, flex tape keeps its grip, even in the toughest conditions."
+                },
+                {
+                    "timestamp": [
+                        62.0,
+                        67.74
+                    ],
+                    "text": " Big storms can cause big damage. but flex tape comes super wide,"
+                },
+                {
+                    "timestamp": [
+                        67.74,
+                        70.96
+                    ],
+                    "text": " so you can easily patch large holes."
+                },
+                {
+                    "timestamp": [
+                        70.96,
+                        73.24
+                    ],
+                    "text": " To show you the power of flex tape,"
+                },
+                {
+                    "timestamp": [
+                        81.18,
+                        85.76
+                    ],
+                    "text": " I saw this boat in half and repaired it with only flex tape."
+                },
+                {
+                    "timestamp": [
+                        85.76,
+                        89.86
+                    ],
+                    "text": " Not only does flex tape powerful adhesive hold the boat together,"
+                },
+                {
+                    "timestamp": [
+                        90.22,
+                        93.22
+                    ],
+                    "text": " but it creates a super strong watertight seal."
+                },
+                {
+                    "timestamp": [
+                        93.74,
+                        96.4
+                    ],
+                    "text": " So the inside is completely dry."
+                },
+                {
+                    "timestamp": [
+                        97.04,
+                        98.56
+                    ],
+                    "text": " Yes, I'll do it."
+                },
+                {
+                    "timestamp": [
+                        99.08,
+                        101.82
+                    ],
+                    "text": " Just cut, peel, stick, and seal."
+                },
+                {
+                    "timestamp": [
+                        102.04,
+                        105.72
+                    ],
+                    "text": " Imagine everything you can do with the power of flex tape."
+                }
+            ],
+            "audio_file": "Flex TAPE Commercial (2017) -- Phil Swift.mp3",
+            "translation_german": "Flex Tape ist ein superstarkes, wasserdichtes Klebeband, das sofort die Bindung versiegeln und reparieren kann. Flex Tape ist kein gewöhnliches Band. Sein dreifaches Dicke Kleber schweißt sich praktisch an die Oberfläche und stoppt sofort die härtesten Lecks. undichte Rohre können großen Schaden anrichten, aber FlexTap greift sofort an engen und Bindungen. Außerdem ist FlexTaps starkes Klebstoff so stark, dass es sogar unter Wasser funktioniert. Jetzt können Sie Lecks in Pools und Spas reparieren, ohne sie zu entleeren. Flex Tape ist perfekt für Marine, Camper und Wohnmobil. Flex Tape ist super stark. Und sobald es angebracht ist, hält es fest. Und für die Reparatur von Autos hält Flex Tape seinen Griff, auch unter den härtesten Bedingungen. Große Stürme können große Schäden verursachen. Aber Super flex ist so einfach, man kann Löcher füllen. Nur mit diesem starken Klebeband kann man alles in der Boote reparieren. Es ist nicht nur ein starkes, sondern auch ein starkes, trockenes Klebeband. Ich habe gesehen, dass es in einem Boot mit einem sehr starken Klebeband zusammengesetzt wird.",
+            "translation_chinese": "菲尔·斯威夫特在这里为FlexTape介绍,这款超强的防水带可以立即补丁和修复粘合剂.FlexTape不是普通带.其三重厚的粘合剂几乎将自己接到表面,立即阻止最难的泄漏.泄漏的管道可以造成重大损坏,但FlexTap可以立即抓住紧和粘合剂.此外,FlexTap的强大的粘合剂非常强大,甚至可以在水下工作.现在您可以在游泳池和水疗中心修复漏洞而不用排水.FlexTape非常适合海军,露营者和RV. FlexTape非常强大.一旦它被戴上,它会紧紧地抓住.对于汽车维修,FlexTape在最艰难的条件下保持紧.大风暴会造成很大的损坏.但FlexTap非常容易地粘着,你可以修补半个洞.所以,这只不仅可以让您在船内修复漏洞,而且还可以通过带来修复船内. 为了让船只变得非常强大,即使是带,它会保持紧. 为了让船只变得非常强壮,我只"
+        },
+        {
+            "text": " Music Music No way, no way Sharing a song And me Oh! Oh! You lie so low in my wings I bet you're gonna encourage me You have me down, down, down Down, down for my dreams Now, whoa! Hey, Jim. Working all weekend. Yeah. I will definitely get those to you first thing Monday. Thanks. Bye. Conquer the weekend in the all-new Hyundai Santa Fe. Subscribe!",
+            "chunks": [
+                {
+                    "timestamp": [
+                        0.0,
+                        18.0
+                    ],
+                    "text": " Music"
+                },
+                {
+                    "timestamp": [
+                        18.0,
+                        20.0
+                    ],
+                    "text": " Music"
+                },
+                {
+                    "timestamp": [
+                        20.0,
+                        21.0
+                    ],
+                    "text": " No way, no way"
+                },
+                {
+                    "timestamp": [
+                        21.0,
+                        23.0
+                    ],
+                    "text": " Sharing a song"
+                },
+                {
+                    "timestamp": [
+                        23.0,
+                        24.0
+                    ],
+                    "text": " And me"
+                },
+                {
+                    "timestamp": [
+                        24.0,
+                        28.52
+                    ],
+                    "text": " Oh! Oh!"
+                },
+                {
+                    "timestamp": [
+                        32.38,
+                        36.1
+                    ],
+                    "text": " You lie so low in my wings I bet you're gonna encourage me"
+                },
+                {
+                    "timestamp": [
+                        36.1,
+                        39.16
+                    ],
+                    "text": " You have me down, down, down"
+                },
+                {
+                    "timestamp": [
+                        39.16,
+                        42.14
+                    ],
+                    "text": " Down, down for my dreams"
+                },
+                {
+                    "timestamp": [
+                        42.14,
+                        43.14
+                    ],
+                    "text": " Now, whoa!"
+                },
+                {
+                    "timestamp": [
+                        44.48,
+                        45.2
+                    ],
+                    "text": " Hey, Jim."
+                },
+                {
+                    "timestamp": [
+                        45.94,
+                        46.76
+                    ],
+                    "text": " Working all weekend."
+                },
+                {
+                    "timestamp": [
+                        47.18,
+                        47.32
+                    ],
+                    "text": " Yeah."
+                },
+                {
+                    "timestamp": [
+                        48.12,
+                        49.88
+                    ],
+                    "text": " I will definitely get those to you first thing Monday."
+                },
+                {
+                    "timestamp": [
+                        50.78,
+                        51.28
+                    ],
+                    "text": " Thanks. Bye."
+                },
+                {
+                    "timestamp": [
+                        56.28,
+                        59.5
+                    ],
+                    "text": " Conquer the weekend in the all-new Hyundai Santa Fe."
+                },
+                {
+                    "timestamp": [
+                        65.68,
+                        null
+                    ],
+                    "text": " Subscribe!"
+                }
+            ],
+            "audio_file": "Hyundai Commercial Conquer the Weekend Vikings The All-New 2024 SANTA FE Best Commercials.mp3",
+            "translation_german": "Musik Musik keine Möglichkeit, keine Möglichkeit, ein Lied teilen und ich Oh! Oh! Du liegst so tief in meinen Flügeln Ich wette, du wirst mich ermutigen Du hast mich unten, unten, unten, unten für meine Träume Jetzt, woah! Hey, Jim. Das ganze Wochenende arbeiten. Ja. Ich werde definitiv bringen Sie diese erste Sache Montag. Danke. Tschüss. Erobern Sie das Wochenende in der brandneuen Hyundai Santa Fe. Abonnieren",
+            "translation_chinese": "音乐音乐没有办法,没有办法分享一首歌,我!!你躺在我的翅膀下,我敢打你会鼓励我你让我下,下,下,下我的梦想现在,!,吉姆.工作整个周末.是的.我肯定会给你星期一早上.谢谢.再见.征服周末全新的现代圣费.订阅"
+        },
+        {
+            "text": " All of us are getting to know the new pancakes of IHOP, like the Jelly Donut Pancakes. These pancakes look like a donut. It has glass. It has everything, but it's a pancake. The new and surprising tiramisu pancakes. It's an ideal, but so rich. And the abundant banana gram nut pancakes. Platanas, wherever you want. Hey, hey, hey, hey, hey, hey. Hey, yeah. Be the IHOP today for the new Signature Pancakes from $4.99. But, pressurate before the locura see it. You have to come here and try this.",
+            "chunks": [
+                {
+                    "timestamp": [
+                        0.0,
+                        5.7
+                    ],
+                    "text": " All of us are getting to know the new pancakes of IHOP, like the Jelly Donut Pancakes."
+                },
+                {
+                    "timestamp": [
+                        5.7,
+                        7.2
+                    ],
+                    "text": " These pancakes look like a donut."
+                },
+                {
+                    "timestamp": [
+                        7.44,
+                        9.22
+                    ],
+                    "text": " It has glass. It has everything, but it's a pancake."
+                },
+                {
+                    "timestamp": [
+                        9.56,
+                        12.0
+                    ],
+                    "text": " The new and surprising tiramisu pancakes."
+                },
+                {
+                    "timestamp": [
+                        12.0,
+                        14.76
+                    ],
+                    "text": " It's an ideal, but so rich."
+                },
+                {
+                    "timestamp": [
+                        15.08,
+                        17.5
+                    ],
+                    "text": " And the abundant banana gram nut pancakes."
+                },
+                {
+                    "timestamp": [
+                        17.76,
+                        18.9
+                    ],
+                    "text": " Platanas, wherever you want."
+                },
+                {
+                    "timestamp": [
+                        19.04,
+                        20.3
+                    ],
+                    "text": " Hey, hey, hey, hey, hey, hey."
+                },
+                {
+                    "timestamp": [
+                        20.64,
+                        21.44
+                    ],
+                    "text": " Hey, yeah."
+                },
+                {
+                    "timestamp": [
+                        21.58,
+                        25.28
+                    ],
+                    "text": " Be the IHOP today for the new Signature Pancakes from $4.99."
+                },
+                {
+                    "timestamp": [
+                        25.86,
+                        26.06
+                    ],
+                    "text": " But,"
+                },
+                {
+                    "timestamp": [
+                        26.18,
+                        26.8
+                    ],
+                    "text": " pressurate"
+                },
+                {
+                    "timestamp": [
+                        26.8,
+                        27.98
+                    ],
+                    "text": " before the locura"
+                },
+                {
+                    "timestamp": [
+                        27.98,
+                        28.54
+                    ],
+                    "text": " see it."
+                },
+                {
+                    "timestamp": [
+                        28.58,
+                        29.26
+                    ],
+                    "text": " You have to come here"
+                },
+                {
+                    "timestamp": [
+                        29.26,
+                        30.46
+                    ],
+                    "text": " and try this."
+                }
+            ],
+            "audio_file": "IHOP Commercial Spanish.mp3",
+            "translation_german": "Wir alle lernen die neuen Pfannkuchen von IHOP kennen, wie die Jelly Donut Pancakes. Diese Pfannkuchen sehen aus wie ein Donut. Sie haben Glas. Sie haben alles, aber sie sind eine Pfannkuchen. Die neuen und überraschenden Tiramisu-Pfannkuchen. Es ist ideal, aber so reich. Und die reichhaltigen Bananen-Gram-Nuss-Pfannkuchen. Platanas, wo immer Sie wollen. Hey, hey, hey, hey, hey, hey, hey. Hey, yeah. Sei heute der IHOP für die neuen Signature-Pfannkuchen ab 4,99 Dollar. Aber, drücke vor der Locura es an. Du musst hierher kommen und es probieren.",
+            "translation_chinese": "我们都在了解IHOP的新饼,比如果饼.这些饼看起来像饼.它有玻璃.它有一切,但它是一个饼.新的惊人的蒂拉米苏饼.这是一个理想的,但如此丰富.和丰富的香克坚果饼.菜,任何你想.,,,,,.,.,.今天成为IHOP从4.99美元的新签名饼.但,在饼之前,压力看看.你必须来到这里试试这个."
+        },
+        {
+            "text": " All rise, Judge Beauty is back. Beauty fades. Dumb is forever. His boss was overspending on beauty. She is wasting company funds on overpriced makeup. Good makeup is expensive. Pricy makeup is a scam, like couples therapy or boundaries. Ooh, I object to his whole vibe. You're telling me you need to spend $92 on foundation? Don't pee on my leg and tell me it's raining. I confess. I just wanted to look gooey. Radiant? Luminous? Glowy? Elfin hot? But this stuff costs a fortune and it isn't even cruelty free. I know, I'm not proud of it. Gas. I find you guilty of reckless spending and sentence you to $14 glowy skin. Okay, just wait, stop. So what do I get? Sorry, no makeup can cover up irritating. Well, that's okay, I don't mind being irritating. Judge Beauty serves eyes, lips, facts. In Elf We Trust.",
+            "chunks": [
+                {
+                    "timestamp": [
+                        0.0,
+                        2.84
+                    ],
+                    "text": " All rise, Judge Beauty is back."
+                },
+                {
+                    "timestamp": [
+                        2.84,
+                        6.0
+                    ],
+                    "text": " Beauty fades. Dumb is forever."
+                },
+                {
+                    "timestamp": [
+                        6.0,
+                        8.56
+                    ],
+                    "text": " His boss was overspending on beauty."
+                },
+                {
+                    "timestamp": [
+                        8.56,
+                        11.6
+                    ],
+                    "text": " She is wasting company funds on overpriced makeup."
+                },
+                {
+                    "timestamp": [
+                        11.6,
+                        13.34
+                    ],
+                    "text": " Good makeup is expensive."
+                },
+                {
+                    "timestamp": [
+                        13.34,
+                        16.72
+                    ],
+                    "text": " Pricy makeup is a scam, like couples therapy or boundaries."
+                },
+                {
+                    "timestamp": [
+                        16.72,
+                        19.36
+                    ],
+                    "text": " Ooh, I object to his whole vibe."
+                },
+                {
+                    "timestamp": [
+                        20.36,
+                        24.14
+                    ],
+                    "text": " You're telling me you need to spend $92 on foundation?"
+                },
+                {
+                    "timestamp": [
+                        24.14,
+                        26.08
+                    ],
+                    "text": " Don't pee on my leg and tell me it's raining."
+                },
+                {
+                    "timestamp": [
+                        26.26,
+                        26.82
+                    ],
+                    "text": " I confess."
+                },
+                {
+                    "timestamp": [
+                        27.28,
+                        29.0
+                    ],
+                    "text": " I just wanted to look gooey."
+                },
+                {
+                    "timestamp": [
+                        29.1,
+                        29.4
+                    ],
+                    "text": " Radiant?"
+                },
+                {
+                    "timestamp": [
+                        29.46,
+                        29.8
+                    ],
+                    "text": " Luminous?"
+                },
+                {
+                    "timestamp": [
+                        29.88,
+                        30.28
+                    ],
+                    "text": " Glowy?"
+                },
+                {
+                    "timestamp": [
+                        30.44,
+                        31.1
+                    ],
+                    "text": " Elfin hot?"
+                },
+                {
+                    "timestamp": [
+                        31.22,
+                        35.0
+                    ],
+                    "text": " But this stuff costs a fortune and it isn't even cruelty free."
+                },
+                {
+                    "timestamp": [
+                        35.62,
+                        37.86
+                    ],
+                    "text": " I know, I'm not proud of it."
+                },
+                {
+                    "timestamp": [
+                        38.0,
+                        38.34
+                    ],
+                    "text": " Gas."
+                },
+                {
+                    "timestamp": [
+                        39.34,
+                        44.46
+                    ],
+                    "text": " I find you guilty of reckless spending and sentence you to $14 glowy skin."
+                },
+                {
+                    "timestamp": [
+                        45.64,
+                        47.08
+                    ],
+                    "text": " Okay, just wait, stop."
+                },
+                {
+                    "timestamp": [
+                        48.1,
+                        48.82
+                    ],
+                    "text": " So what do I get?"
+                },
+                {
+                    "timestamp": [
+                        48.96,
+                        51.2
+                    ],
+                    "text": " Sorry, no makeup can cover up irritating."
+                },
+                {
+                    "timestamp": [
+                        52.3,
+                        53.52
+                    ],
+                    "text": " Well, that's okay, I don't mind being irritating."
+                },
+                {
+                    "timestamp": [
+                        54.36,
+                        57.36
+                    ],
+                    "text": " Judge Beauty serves eyes, lips, facts."
+                },
+                {
+                    "timestamp": [
+                        57.56,
+                        58.5
+                    ],
+                    "text": " In Elf We Trust."
+                }
+            ],
+            "audio_file": "In e.l.f we Trust e.l.f Cosmetics Game Day Commercial 2024.mp3",
+            "translation_german": "Alle aufstehen, Richterin Schönheit ist zurück. Schönheit verblasst. Dummheit ist für immer. Seine Chefin hat zu viel für Schönheit ausgegeben. Sie verschwendet Firmenmittel für überteuertes Make-up. Gutes Make-up ist teuer. Preiswertes Make-up ist ein Betrug, wie Paartherapie oder Grenzen. Oh, ich lehne seine ganze Atmosphäre ab. Du sagst mir, dass du 92 Dollar für Grundstoffe ausgeben musst? Pisse nicht auf mein Bein und sag mir, es regnet. Ich gestehe. Ich wollte nur klebrig aussehen. Strahlend? Leuchtig? Glänzend? Elfin heiß? Aber das kostet ein Vermögen und ist nicht einmal grausam. Ich weiß, ich bin nicht stolz darauf. Gasstrafe. Ich finde dich schuldig, rücksichtslos ausgegeben zu haben und dich für 14 Dollar glänzende Haut zu bekommen. Okay, warte, hör auf. Was soll ich tun? Schönheit, okay, ich kann kein Make-up bedecken.",
+            "translation_chinese": ",美丽法官回来了. 美丽消失了. 是永远的. 他的老板在美丽上过度花钱. 她在公司的资金浪费在过高的化品上. 好的化品是昂贵的. 昂贵的化品是一个骗局,就像夫妻治疗或边界. ,我反对他的整个氛围. 你告诉我你需要花92美元的基础? 不要在我的腿上尿,告诉我下雨. 我承认. 我只是想看起来粘. 烂? 光? 闪耀? 精灵热? 但这花费了一笔钱,甚至没有残忍. 我知道,我不骄傲. 气体句子. 我发现你有罪的鲁花费和你14美元的闪耀皮肤. 好吧,等待,停下来. 那么我怎么办? 没问题,我们可以遮盖化品,好吧. ,我不用说,我们不需要. ,我不用说,我们不能. ,我不用. ,我不用. ,我不用. ,我不用. ,我不用. ,我不用. ,我不需要. ,我不需要."
+        },
+        {
+            "text": " Little Caesar's delivery. That's the best thing since sliced bread. We got a problem. There's a new best thing. Okay, new ideas. Go. Travel sliced bread. Barco bread. Bread insurance. Magnetic bread. What? Steer Lord. Run the numbers. Run them again. You can do this. Come on, come on, come on. Talk to me. Go out there and lead. Thin slices, thick slices, diagonal slices. Ha! Ha! Yes, this might work. This might work. No, no, no, no, no, no. Everything is fine. I've been following this turkey for a month. Sliced bread is toast. I'm not going to cry. Don't cry. What's happening? This is not happening. This is not happening. I know there are concerns, but everything's fine. Little Caesar's delivery. Best things since sliced bread. I know. America's best value now delivered. Pizza pizza.",
+            "chunks": [
+                {
+                    "timestamp": [
+                        0.0,
+                        3.0
+                    ],
+                    "text": " Little Caesar's delivery."
+                },
+                {
+                    "timestamp": [
+                        3.0,
+                        5.0
+                    ],
+                    "text": " That's the best thing since sliced bread."
+                },
+                {
+                    "timestamp": [
+                        8.0,
+                        9.0
+                    ],
+                    "text": " We got a problem."
+                },
+                {
+                    "timestamp": [
+                        9.0,
+                        11.0
+                    ],
+                    "text": " There's a new best thing."
+                },
+                {
+                    "timestamp": [
+                        11.0,
+                        12.0
+                    ],
+                    "text": " Okay, new ideas. Go."
+                },
+                {
+                    "timestamp": [
+                        12.0,
+                        13.0
+                    ],
+                    "text": " Travel sliced bread."
+                },
+                {
+                    "timestamp": [
+                        13.0,
+                        14.0
+                    ],
+                    "text": " Barco bread."
+                },
+                {
+                    "timestamp": [
+                        14.0,
+                        15.0
+                    ],
+                    "text": " Bread insurance."
+                },
+                {
+                    "timestamp": [
+                        15.0,
+                        16.0
+                    ],
+                    "text": " Magnetic bread."
+                },
+                {
+                    "timestamp": [
+                        16.0,
+                        17.0
+                    ],
+                    "text": " What?"
+                },
+                {
+                    "timestamp": [
+                        17.0,
+                        18.0
+                    ],
+                    "text": " Steer Lord."
+                },
+                {
+                    "timestamp": [
+                        18.0,
+                        19.0
+                    ],
+                    "text": " Run the numbers."
+                },
+                {
+                    "timestamp": [
+                        19.0,
+                        20.0
+                    ],
+                    "text": " Run them again."
+                },
+                {
+                    "timestamp": [
+                        20.0,
+                        21.0
+                    ],
+                    "text": " You can do this."
+                },
+                {
+                    "timestamp": [
+                        21.0,
+                        22.0
+                    ],
+                    "text": " Come on, come on, come on."
+                },
+                {
+                    "timestamp": [
+                        22.0,
+                        23.0
+                    ],
+                    "text": " Talk to me."
+                },
+                {
+                    "timestamp": [
+                        23.0,
+                        24.0
+                    ],
+                    "text": " Go out there and lead."
+                },
+                {
+                    "timestamp": [
+                        24.0,
+                        46.84
+                    ],
+                    "text": " Thin slices, thick slices, diagonal slices. Ha! Ha! Yes, this might work. This might work. No, no, no, no, no, no. Everything is fine. I've been following this turkey for a month. Sliced bread is toast. I'm not going to cry. Don't cry. What's happening? This is not happening. This is not happening. I know there are concerns, but everything's fine."
+                },
+                {
+                    "timestamp": [
+                        53.98,
+                        57.22
+                    ],
+                    "text": " Little Caesar's delivery. Best things since sliced bread."
+                },
+                {
+                    "timestamp": [
+                        57.8,
+                        58.2
+                    ],
+                    "text": " I know."
+                },
+                {
+                    "timestamp": [
+                        59.04,
+                        61.18
+                    ],
+                    "text": " America's best value now delivered."
+                },
+                {
+                    "timestamp": [
+                        61.48,
+                        62.06
+                    ],
+                    "text": " Pizza pizza."
+                }
+            ],
+            "audio_file": "Little Caesars Best Thing Since Sliced Bread - 2020 Super Bowl Commercial.mp3",
+            "translation_german": "Kleine Cäsars Lieferung. Das ist das Beste seit Scheibenbrot. Wir haben ein Problem. Es gibt eine neue beste Sache. Okay, neue Ideen. Geh. Reise Scheibenbrot. Barco Brot. Brotversicherung. Magnetbrot. Was? Steer Lord. Führen Sie die Zahlen durch. Führen Sie sie noch einmal. Sie können das. Komm schon, komm schon, komm schon. Sprechen Sie mit mir. Gehen Sie da raus und führen Sie. Dünne Scheiben, dicke Scheiben, diagonale Scheiben. Ha! Ha! Ja, das könnte funktionieren. Das könnte funktionieren. Nein, nein, nein, nein, nein, nein. Alles ist in Ordnung. Ich verfolge diesen Truthahn seit einem Monat. Scheibbrot ist Toast. Ich werde nicht weinen. Nicht weinen. Was passiert? Das passiert nicht. Das passiert nicht. Ich weiß, aber es gibt alles. Kleine Cäsars Lieferung. Ich weiß, was das Beste an Pizza ist. Ich weiß, seit ich das beste Brot geliefert habe.",
+            "translation_chinese": "小凯撒的交付.这是切片面包以来最好的东西. 我们有一个问题. 有一个新的最好的东西. 好吧,新想法. 走. 旅行切片面包. 船面包. 面包保险. 磁面包. 什么? 引导主. 运行数字. 运行它们. 你能做到这一点. 快来,快来,快来. 与我说话. 走出去,带领. 薄片,厚片,对角切片. 哈! 哈! 是的,这可能会奏效. 这可能会奏效. 不,不,不,不,不,不. 一切都没事. 我跟着这个火一个月了. 切片面包是烤面包. 我不会哭. 不要哭. 发生了什么? 这不会发生. 这不会发生. 我知道,但一切都很好. 小凯撒的饼. 我知道美国的最佳披萨价值."
+        },
+        {
+            "text": " Mmm. New Maggie, this is easy to eat. Oh fair. Chattopata, my do is way more awesome. My vote is this way. Huh. What will your one vote for? Two. Me and Papa. Papa? Yumi, Kepsika. So, Visi, vote. Hmm. Three new, exciting Maggie. Try it. Maggie.in vote. And make your choice India's choice.",
+            "chunks": [
+                {
+                    "timestamp": [
+                        0.0,
+                        1.0
+                    ],
+                    "text": " Mmm."
+                },
+                {
+                    "timestamp": [
+                        1.0,
+                        3.0
+                    ],
+                    "text": " New Maggie, this is easy to eat."
+                },
+                {
+                    "timestamp": [
+                        3.0,
+                        4.0
+                    ],
+                    "text": " Oh fair."
+                },
+                {
+                    "timestamp": [
+                        4.0,
+                        6.0
+                    ],
+                    "text": " Chattopata, my do is way more awesome."
+                },
+                {
+                    "timestamp": [
+                        6.0,
+                        7.0
+                    ],
+                    "text": " My vote is this way."
+                },
+                {
+                    "timestamp": [
+                        7.0,
+                        8.0
+                    ],
+                    "text": " Huh."
+                },
+                {
+                    "timestamp": [
+                        8.0,
+                        9.0
+                    ],
+                    "text": " What will your one vote for?"
+                },
+                {
+                    "timestamp": [
+                        9.0,
+                        10.0
+                    ],
+                    "text": " Two."
+                },
+                {
+                    "timestamp": [
+                        10.0,
+                        11.0
+                    ],
+                    "text": " Me and Papa."
+                },
+                {
+                    "timestamp": [
+                        11.0,
+                        12.0
+                    ],
+                    "text": " Papa?"
+                },
+                {
+                    "timestamp": [
+                        12.0,
+                        13.0
+                    ],
+                    "text": " Yumi, Kepsika."
+                },
+                {
+                    "timestamp": [
+                        13.0,
+                        14.0
+                    ],
+                    "text": " So, Visi, vote."
+                },
+                {
+                    "timestamp": [
+                        14.0,
+                        15.0
+                    ],
+                    "text": " Hmm."
+                },
+                {
+                    "timestamp": [
+                        18.0,
+                        20.0
+                    ],
+                    "text": " Three new, exciting Maggie."
+                },
+                {
+                    "timestamp": [
+                        20.0,
+                        21.0
+                    ],
+                    "text": " Try it."
+                },
+                {
+                    "timestamp": [
+                        21.0,
+                        22.0
+                    ],
+                    "text": " Maggie.in vote."
+                },
+                {
+                    "timestamp": [
+                        22.0,
+                        24.0
+                    ],
+                    "text": " And make your choice India's choice."
+                }
+            ],
+            "audio_file": "New MAGGI Range - Choose India’s Most Loved Taste Hindi.mp3",
+            "translation_german": "Mmm. Neue Maggie, das ist leicht zu essen. Oh fair. Chattopata, mein Do ist viel cooler. Meine Stimme ist so. Huh. Wofür wird Ihre eine Stimme? Zwei. Ich und Papa. Papa? Yumi, Kepsika. Also, Visi, stimmen. Hmm. Drei neue, aufregende Maggie. Probieren Sie es. Maggie.in Stimme. Und machen Sie Ihre Wahl die Wahl Indiens.",
+            "translation_chinese": ".新玛吉,这很容易吃.公平.聊天,我的做法更棒.我的投票是这样.哈.你的一个投票是什么?两个.我和爸爸.爸爸?尤米,凯普西卡.所以,维西,投票..三个新的,令人兴奋的玛吉.试试.玛吉.投票.让你的选择是印度的选择."
+        },
+        {
+            "text": " If we show emotion, we're called dramatic. If we want to play against men, we're nuts. And if we dream of equal opportunity, delusional. When we stand for something, we're unhinged. And Sue Burns gonna need to calm down. When we're too good, we're unhinged. And Sue Burns is going to need to calm down. When we're too good, there's something wrong with us. And if we get angry, we're hysterical or rational or just being crazy. But a woman running a marathon was crazy. Officials tried to pull her off the course. A woman boxing was crazy. A woman dunking? Crazy. Coaching an NBA team? Crazy. A woman competing in a hijab, changing her sport, landing a double cork 1080, or winning 23 grand slams, having a baby and then coming back for more? Crazy, crazy, crazy, crazy, and crazy. So if they want to call you crazy, fine. Show them what crazy can do.",
+            "chunks": [
+                {
+                    "timestamp": [
+                        0.0,
+                        7.0
+                    ],
+                    "text": " If we show emotion, we're called dramatic."
+                },
+                {
+                    "timestamp": [
+                        7.0,
+                        13.0
+                    ],
+                    "text": " If we want to play against men, we're nuts."
+                },
+                {
+                    "timestamp": [
+                        13.0,
+                        19.0
+                    ],
+                    "text": " And if we dream of equal opportunity, delusional."
+                },
+                {
+                    "timestamp": [
+                        19.0,
+                        23.0
+                    ],
+                    "text": " When we stand for something, we're unhinged."
+                },
+                {
+                    "timestamp": [
+                        23.0,
+                        26.5
+                    ],
+                    "text": " And Sue Burns gonna need to calm down. When we're too good, we're unhinged. And Sue Burns is going to need to calm down."
+                },
+                {
+                    "timestamp": [
+                        26.5,
+                        30.5
+                    ],
+                    "text": " When we're too good, there's something wrong with us."
+                },
+                {
+                    "timestamp": [
+                        30.5,
+                        36.5
+                    ],
+                    "text": " And if we get angry, we're hysterical or rational or just being crazy."
+                },
+                {
+                    "timestamp": [
+                        38.0,
+                        41.5
+                    ],
+                    "text": " But a woman running a marathon was crazy."
+                },
+                {
+                    "timestamp": [
+                        41.5,
+                        44.5
+                    ],
+                    "text": " Officials tried to pull her off the course."
+                },
+                {
+                    "timestamp": [
+                        47.56,
+                        55.82
+                    ],
+                    "text": " A woman boxing was crazy. A woman dunking? Crazy. Coaching an NBA team? Crazy. A woman competing in a"
+                },
+                {
+                    "timestamp": [
+                        55.82,
+                        63.2
+                    ],
+                    "text": " hijab, changing her sport, landing a double cork 1080, or winning 23 grand slams,"
+                },
+                {
+                    "timestamp": [
+                        63.2,
+                        66.06
+                    ],
+                    "text": " having a baby and then coming back for more?"
+                },
+                {
+                    "timestamp": [
+                        66.96,
+                        70.56
+                    ],
+                    "text": " Crazy, crazy, crazy, crazy, and crazy."
+                },
+                {
+                    "timestamp": [
+                        74.34,
+                        78.54
+                    ],
+                    "text": " So if they want to call you crazy, fine."
+                },
+                {
+                    "timestamp": [
+                        79.44,
+                        null
+                    ],
+                    "text": " Show them what crazy can do."
+                }
+            ],
+            "audio_file": "Nike - Dream Crazier #JustDoIt.mp3",
+            "translation_german": "Wenn wir Emotionen zeigen, sind wir dramatisch. Wenn wir gegen Männer spielen wollen, sind wir verrückt. Und wenn wir von Chancengleichheit träumen, sind wir wahnhaft. Wenn wir für etwas stehen, sind wir verwirrt. Und Sue Burns muss sich beruhigen. Wenn wir zu gut sind, sind wir verwirrt. Und Sue Burns muss sich beruhigen. Wenn wir zu gut sind, ist etwas mit uns nicht in Ordnung. Und wenn wir wütend werden, sind wir hysterisch oder rational oder einfach nur verrückt. Aber eine Frau, die einen Marathonläufer ist, war verrückt. Die Beamten versuchten sie vom Kurs zu bringen. Eine Frau, die boxt, war verrückt. Eine Frau, die taucht? Verrückt. Eine NBA-Teamcoaching? Verrückt. Eine Frau, die in einem Hidschab antritt, ihren Sport wechselt, einen Doppelkorken landet oder 1080, 23 Grand Slams gewinnt, ein Baby bekommt und verrückt wird, dann sind sie verrückt. Also, wenn sie verrückt sind, dann können Sie sie verrückt nennen, wenn sie wollen, und dann sind sie verrückt.",
+            "translation_chinese": "如果我们表现出情感,我们被称为戏剧性.如果我们想对抗男人,我们是疯子.如果我们梦想平等机会,我们是妄想的.当我们站立于某种立场时,我们是失调的.而苏伯恩斯需要冷静下来.当我们太好时,我们是失调的.而苏伯恩斯需要冷静下来.当我们太好时,我们有什么不对.如果我们生气,我们是歇斯底里或理性或只是疯狂.但一个女人跑马拉松是疯狂的.官员试图让她离开赛道.一个女人拳击是疯狂的.一个女人跳水?疯狂.教练NBA队?疯狂.一个女人参加比赛,换运动,获得双重,赢得1080,23个大满贯,有一个孩子和更疯狂的回来?如果他们想疯狂,那么,他们可以叫他们疯狂,疯狂,如果你想,他们可以做什么."
+        },
+        {
+            "text": " Holy shit, Richie Rich. Surprised to see you out of your house, Van Gogh. Really, guys? Come on. We're not in high school anymore. Well, no shit. You can see, if we were still in high school, my old man would still have a job, and we'd still have a house. But your rich daddy bought the Corrie over in Pontus and shut it down so he could build more warehouses for his fancy foreign rugs. Didn't you hear what I told you, or is your little tortellini or not working? I said, well, you get to play with your toys in your mansion. My family gets to live in a double wide down by Carson Creek. Now, how's that fair, huh? It's not. Just like it's not fair that you're ugly. Sometimes we got to play the hand we're dealt. And who the hell are you? I'm Richard's friend. So if you're smart, you'll get out of here before I hurt you. Get yourself a little babysitter now? So you're stupid and ugly. Next time you see Richard, walk the other way.",
+            "chunks": [
+                {
+                    "timestamp": [
+                        0.0,
+                        6.36
+                    ],
+                    "text": " Holy shit, Richie Rich."
+                },
+                {
+                    "timestamp": [
+                        7.86,
+                        9.7
+                    ],
+                    "text": " Surprised to see you out of your house, Van Gogh."
+                },
+                {
+                    "timestamp": [
+                        12.44,
+                        15.06
+                    ],
+                    "text": " Really, guys? Come on. We're not in high school anymore."
+                },
+                {
+                    "timestamp": [
+                        15.72,
+                        16.58
+                    ],
+                    "text": " Well, no shit."
+                },
+                {
+                    "timestamp": [
+                        17.4,
+                        21.4
+                    ],
+                    "text": " You can see, if we were still in high school, my old man would still have a job, and we'd still have a house."
+                },
+                {
+                    "timestamp": [
+                        21.92,
+                        26.36
+                    ],
+                    "text": " But your rich daddy bought the Corrie over in Pontus and shut it down so he could build more warehouses"
+                },
+                {
+                    "timestamp": [
+                        26.36,
+                        27.86
+                    ],
+                    "text": " for his fancy foreign rugs."
+                },
+                {
+                    "timestamp": [
+                        30.16,
+                        31.22
+                    ],
+                    "text": " Didn't you hear what I told you,"
+                },
+                {
+                    "timestamp": [
+                        31.28,
+                        52.02
+                    ],
+                    "text": " or is your little tortellini or not working? I said, well, you get to play with your toys in your mansion."
+                },
+                {
+                    "timestamp": [
+                        52.16,
+                        54.46
+                    ],
+                    "text": " My family gets to live in a double wide down by Carson Creek."
+                },
+                {
+                    "timestamp": [
+                        54.82,
+                        55.86
+                    ],
+                    "text": " Now, how's that fair, huh?"
+                },
+                {
+                    "timestamp": [
+                        56.4,
+                        57.04
+                    ],
+                    "text": " It's not."
+                },
+                {
+                    "timestamp": [
+                        58.72,
+                        60.6
+                    ],
+                    "text": " Just like it's not fair that you're ugly."
+                },
+                {
+                    "timestamp": [
+                        61.28,
+                        63.0
+                    ],
+                    "text": " Sometimes we got to play the hand we're dealt."
+                },
+                {
+                    "timestamp": [
+                        63.68,
+                        64.7
+                    ],
+                    "text": " And who the hell are you?"
+                },
+                {
+                    "timestamp": [
+                        100.44,
+                        null
+                    ],
+                    "text": " I'm Richard's friend. So if you're smart, you'll get out of here before I hurt you. Get yourself a little babysitter now? So you're stupid and ugly. Next time you see Richard, walk the other way."
+                }
+            ],
+            "audio_file": "Reacher breaks the bullies Reacher S03E03 Amazon Prime Videos.mp3",
+            "translation_german": "Richie Rich. Überrascht, dass du aus deinem Haus gegangen bist, Van Gogh. Wirklich, Leute? Komm schon. Wir sind nicht mehr in der Highschool. Na ja, keine Scheiße. Du siehst, wenn wir noch in der Highschool wären, hätte mein Vater immer noch einen Job und wir hätten immer noch ein Haus. Aber dein reicher Daddy kaufte den Corrie in Pontus und schloss ihn, damit er mehr Lager für seine schicken ausländischen Teppiche bauen konnte. Hast du nicht gehört, was ich dir gesagt habe, oder funktioniert dein kleiner Tortilini oder nicht? Ich sagte, nun, du kannst mit deinen Spielzeugen in deiner Villa spielen. Meine Familie lebt in einem großen Doppelhaus am Carson Creek. Jetzt, wie ist das fair, huh? Es ist nicht. Genau wie es nicht fair, dass du hässlich bist.",
+            "translation_chinese": "圣洁的,里奇富豪.惊地看到你离开你的房子,范高.真的,伙计们? 快点.我们不再是高中. ,没有. 你能看到,如果我们还在高中,我的老爸仍然会有工作,我们仍然会有一个房子. 但你富有的爸爸买了科里在庞托斯,关闭它,所以他可以建造更多的仓库他的华丽的外国地毯.你听不到我告诉你的吗,或是你的小托特利尼不工作吗?我说,好吧,你可以玩你的玩具在你的豪宅. 我的家人得住在一个宽的卡森溪.现在,如何公平,?它不是.就像你不公平.所以有时我们必须玩手我们处理.下次你是地狱.所以你是个愚蠢的小朋友.如果你走出去之前,你会受伤. 理查德,你会走得很聪明.如果你是个小小小的保姆,你会走得很好."
+        },
+        {
+            "text": " Right this second, at some diner somewhere, I'll have a... Someone really wants a soda. And they're not alone. Because somewhere else, there's a bunch of other someones that are also thinking about soda. Like her. Hello? Are you okay? I'm thinking. See? The soda feels like a lot of sugar right now. And these other drinks, too much buzz, no flavor. What if there were a better soda? Hurry up! Hey, yo! Hunt! Bestie! Hey, I'm gonna freak out. It's a drive-through, not a confession booth. Show up a poppy, please. Stop spiraling. Get a poppy. Get a poppy. Get a poppy. Don't mind if I do. Lisa? Hello, poppy. Get a poppy. Don't mind if I do. Lisa? Hello, poppy. Hey. Oh, yes. What a lineup. Okay. I mean, a soda with five grams of sugar. It does, right? Uh-huh. It is good.",
+            "chunks": [
+                {
+                    "timestamp": [
+                        0.0,
+                        3.8
+                    ],
+                    "text": " Right this second, at some diner somewhere, I'll have a..."
+                },
+                {
+                    "timestamp": [
+                        3.8,
+                        5.42
+                    ],
+                    "text": " Someone really wants a soda."
+                },
+                {
+                    "timestamp": [
+                        6.3,
+                        7.44
+                    ],
+                    "text": " And they're not alone."
+                },
+                {
+                    "timestamp": [
+                        7.92,
+                        11.92
+                    ],
+                    "text": " Because somewhere else, there's a bunch of other someones that are also thinking about soda."
+                },
+                {
+                    "timestamp": [
+                        12.64,
+                        13.34
+                    ],
+                    "text": " Like her."
+                },
+                {
+                    "timestamp": [
+                        14.6,
+                        16.28
+                    ],
+                    "text": " Hello? Are you okay?"
+                },
+                {
+                    "timestamp": [
+                        16.56,
+                        17.04
+                    ],
+                    "text": " I'm thinking."
+                },
+                {
+                    "timestamp": [
+                        17.26,
+                        17.46
+                    ],
+                    "text": " See?"
+                },
+                {
+                    "timestamp": [
+                        18.72,
+                        21.66
+                    ],
+                    "text": " The soda feels like a lot of sugar right now."
+                },
+                {
+                    "timestamp": [
+                        22.66,
+                        25.6
+                    ],
+                    "text": " And these other drinks, too much buzz,"
+                },
+                {
+                    "timestamp": [
+                        26.52,
+                        27.12
+                    ],
+                    "text": " no flavor."
+                },
+                {
+                    "timestamp": [
+                        27.6,
+                        29.24
+                    ],
+                    "text": " What if there were a better soda?"
+                },
+                {
+                    "timestamp": [
+                        30.24,
+                        30.98
+                    ],
+                    "text": " Hurry up!"
+                },
+                {
+                    "timestamp": [
+                        31.24,
+                        31.92
+                    ],
+                    "text": " Hey, yo!"
+                },
+                {
+                    "timestamp": [
+                        32.02,
+                        32.3
+                    ],
+                    "text": " Hunt!"
+                },
+                {
+                    "timestamp": [
+                        32.44,
+                        32.92
+                    ],
+                    "text": " Bestie!"
+                },
+                {
+                    "timestamp": [
+                        33.26,
+                        34.18
+                    ],
+                    "text": " Hey, I'm gonna freak out."
+                },
+                {
+                    "timestamp": [
+                        34.56,
+                        36.44
+                    ],
+                    "text": " It's a drive-through, not a confession booth."
+                },
+                {
+                    "timestamp": [
+                        36.68,
+                        37.82
+                    ],
+                    "text": " Show up a poppy, please."
+                },
+                {
+                    "timestamp": [
+                        38.08,
+                        38.9
+                    ],
+                    "text": " Stop spiraling."
+                },
+                {
+                    "timestamp": [
+                        39.52,
+                        40.2
+                    ],
+                    "text": " Get a poppy."
+                },
+                {
+                    "timestamp": [
+                        40.34,
+                        41.02
+                    ],
+                    "text": " Get a poppy."
+                },
+                {
+                    "timestamp": [
+                        41.12,
+                        41.72
+                    ],
+                    "text": " Get a poppy."
+                },
+                {
+                    "timestamp": [
+                        42.1,
+                        42.94
+                    ],
+                    "text": " Don't mind if I do."
+                },
+                {
+                    "timestamp": [
+                        45.0,
+                        46.0
+                    ],
+                    "text": " Lisa? Hello, poppy. Get a poppy. Don't mind if I do. Lisa?"
+                },
+                {
+                    "timestamp": [
+                        46.0,
+                        47.0
+                    ],
+                    "text": " Hello, poppy."
+                },
+                {
+                    "timestamp": [
+                        47.0,
+                        48.0
+                    ],
+                    "text": " Hey."
+                },
+                {
+                    "timestamp": [
+                        48.0,
+                        49.0
+                    ],
+                    "text": " Oh, yes."
+                },
+                {
+                    "timestamp": [
+                        50.0,
+                        51.0
+                    ],
+                    "text": " What a lineup."
+                },
+                {
+                    "timestamp": [
+                        51.0,
+                        52.0
+                    ],
+                    "text": " Okay."
+                },
+                {
+                    "timestamp": [
+                        52.0,
+                        56.0
+                    ],
+                    "text": " I mean, a soda with five grams of sugar."
+                },
+                {
+                    "timestamp": [
+                        56.0,
+                        57.0
+                    ],
+                    "text": " It does, right?"
+                },
+                {
+                    "timestamp": [
+                        57.0,
+                        58.0
+                    ],
+                    "text": " Uh-huh."
+                },
+                {
+                    "timestamp": [
+                        58.0,
+                        59.0
+                    ],
+                    "text": " It is good."
+                }
+            ],
+            "audio_file": "Soda Thoughts I poppi Super Bowl LIX 2025 Commercial.mp3",
+            "translation_german": "Ich werde in dieser Sekunde irgendwo in einem Restaurant einen... jemand will wirklich eine Limonade. Und sie sind nicht allein. Denn irgendwo anders gibt es eine Reihe anderer, die auch an Limonade denken. Wie sie. Hallo? Bist du in Ordnung? Ich denke. Siehst du? Die Limonade fühlt sich gerade wie viel Zucker an. Und diese anderen Getränke, zu viel Geschmack, kein Geschmack. Was wäre, wenn es eine bessere Limonade gäbe? Beeile dich! Hey, yo! Hunt! Bestie! Hey, ich werde ausflippen. Es ist ein Drive-through, nicht eine Beichte. Zeige einen Mohn, bitte. Hör auf zu springen. Hol einen Mohn. Einen Mohn. Hol einen Mohn.",
+            "translation_chinese": "现在,在某个餐厅,我会喝... 某个人真的想要苏打水. 他们不是孤单的. 因为别的地方,还有很多人也在想苏打水.像她. 你好?你好吗?我在想. 看吗?苏打水现在感觉像很多糖. 其他饮料,太多的声,没有味道. 如果有更好的苏打水? 赶紧! ! 猎人! 野兽! 我会发疯. 这是一个开车店,不是一个供词亭. 带一个,请. 停止旋转. 拿一个. 一个. 拿一个. 不介意我做. 丽莎. . . 拿一个. 我不介意. 丽莎. . . . . . . . 我不介意. . 丽莎. . . . . . . . ."
+        },
+        {
+            "text": " Thank you, Agent State Farm. Like a good neighbor. State Farm is there. Cut. Hey, Arnold, I'm hearing neighbor. It's neighbor. That's what I said. Neighbor. Neighbor. Neighbor. Let's go again. Like a good neighbor state farm is there cut now what it's neighbor neighbor neighbor cut neighbor yeah neighbor just like it's written on a paper this lady's in labor cut look at Look at this. This is labor. Make a good neighbor. That was the sheep. And you know it. It's like you're cold. Burr. Yeah, I'm cold. Bah. Neighbor. Still no. Make a good neighbor. Cut. Burr. Burr. Burr. Burr. Burr. Burr. Maybur. Neighbor. Burr. Burr. Burr. Bah. Get me under this chopper. It's pronounced chopper. Don't. May Bird. Bird. Bob. Burr. Bar! Get me under this chopper. It's pronounced chopper. Don't. It is. May Bird. A little bit more concealer. Hey, Arnold. It's got a bit of a script change. Script change. Mm-hmm.",
+            "chunks": [
+                {
+                    "timestamp": [
+                        0.0,
+                        12.0
+                    ],
+                    "text": " Thank you, Agent State Farm."
+                },
+                {
+                    "timestamp": [
+                        12.0,
+                        15.0
+                    ],
+                    "text": " Like a good neighbor. State Farm is there."
+                },
+                {
+                    "timestamp": [
+                        15.0,
+                        16.0
+                    ],
+                    "text": " Cut."
+                },
+                {
+                    "timestamp": [
+                        16.0,
+                        20.0
+                    ],
+                    "text": " Hey, Arnold, I'm hearing neighbor. It's neighbor."
+                },
+                {
+                    "timestamp": [
+                        20.0,
+                        22.0
+                    ],
+                    "text": " That's what I said. Neighbor."
+                },
+                {
+                    "timestamp": [
+                        22.0,
+                        24.0
+                    ],
+                    "text": " Neighbor."
+                },
+                {
+                    "timestamp": [
+                        24.0,
+                        45.52
+                    ],
+                    "text": " Neighbor. Let's go again. Like a good neighbor state farm is there cut now what it's neighbor neighbor neighbor cut neighbor yeah neighbor just like it's written on a paper this lady's in labor cut look at Look at this. This is labor."
+                },
+                {
+                    "timestamp": [
+                        46.48,
+                        47.48
+                    ],
+                    "text": " Make a good neighbor."
+                },
+                {
+                    "timestamp": [
+                        48.56,
+                        49.18
+                    ],
+                    "text": " That was the sheep."
+                },
+                {
+                    "timestamp": [
+                        50.14,
+                        50.36
+                    ],
+                    "text": " And you know it."
+                },
+                {
+                    "timestamp": [
+                        50.96,
+                        51.28
+                    ],
+                    "text": " It's like you're cold."
+                },
+                {
+                    "timestamp": [
+                        51.76,
+                        51.98
+                    ],
+                    "text": " Burr."
+                },
+                {
+                    "timestamp": [
+                        52.6,
+                        52.9
+                    ],
+                    "text": " Yeah, I'm cold."
+                },
+                {
+                    "timestamp": [
+                        53.3,
+                        54.24
+                    ],
+                    "text": " Bah."
+                },
+                {
+                    "timestamp": [
+                        54.58,
+                        54.86
+                    ],
+                    "text": " Neighbor."
+                },
+                {
+                    "timestamp": [
+                        55.52,
+                        55.78
+                    ],
+                    "text": " Still no."
+                },
+                {
+                    "timestamp": [
+                        56.64,
+                        56.94
+                    ],
+                    "text": " Make a good neighbor."
+                },
+                {
+                    "timestamp": [
+                        57.24,
+                        57.46
+                    ],
+                    "text": " Cut."
+                },
+                {
+                    "timestamp": [
+                        57.74,
+                        57.88
+                    ],
+                    "text": " Burr."
+                },
+                {
+                    "timestamp": [
+                        58.18,
+                        58.4
+                    ],
+                    "text": " Burr."
+                },
+                {
+                    "timestamp": [
+                        58.62,
+                        58.94
+                    ],
+                    "text": " Burr. Burr."
+                },
+                {
+                    "timestamp": [
+                        59.08,
+                        59.42
+                    ],
+                    "text": " Burr."
+                },
+                {
+                    "timestamp": [
+                        59.6,
+                        59.94
+                    ],
+                    "text": " Burr."
+                },
+                {
+                    "timestamp": [
+                        60.18,
+                        60.7
+                    ],
+                    "text": " Maybur."
+                },
+                {
+                    "timestamp": [
+                        61.1,
+                        61.42
+                    ],
+                    "text": " Neighbor."
+                },
+                {
+                    "timestamp": [
+                        61.96,
+                        62.26
+                    ],
+                    "text": " Burr."
+                },
+                {
+                    "timestamp": [
+                        62.46,
+                        62.74
+                    ],
+                    "text": " Burr."
+                },
+                {
+                    "timestamp": [
+                        62.96,
+                        63.26
+                    ],
+                    "text": " Burr."
+                },
+                {
+                    "timestamp": [
+                        63.52,
+                        63.78
+                    ],
+                    "text": " Bah."
+                },
+                {
+                    "timestamp": [
+                        64.78,
+                        66.26
+                    ],
+                    "text": " Get me under this chopper. It's pronounced chopper. Don't. May Bird. Bird. Bob. Burr. Bar! Get me under this chopper."
+                },
+                {
+                    "timestamp": [
+                        66.42,
+                        67.68
+                    ],
+                    "text": " It's pronounced chopper."
+                },
+                {
+                    "timestamp": [
+                        68.14,
+                        68.56
+                    ],
+                    "text": " Don't."
+                },
+                {
+                    "timestamp": [
+                        68.92,
+                        69.5
+                    ],
+                    "text": " It is."
+                },
+                {
+                    "timestamp": [
+                        70.5,
+                        71.5
+                    ],
+                    "text": " May Bird."
+                },
+                {
+                    "timestamp": [
+                        72.72,
+                        73.98
+                    ],
+                    "text": " A little bit more concealer."
+                },
+                {
+                    "timestamp": [
+                        74.34,
+                        74.72
+                    ],
+                    "text": " Hey, Arnold."
+                },
+                {
+                    "timestamp": [
+                        75.12,
+                        76.28
+                    ],
+                    "text": " It's got a bit of a script change."
+                },
+                {
+                    "timestamp": [
+                        76.7,
+                        77.5
+                    ],
+                    "text": " Script change."
+                },
+                {
+                    "timestamp": [
+                        77.66,
+                        78.02
+                    ],
+                    "text": " Mm-hmm."
+                }
+            ],
+            "audio_file": "State Farm Commercial Arnold Schwarzenegger Super Bowl Commercial 2024 Best Commercials.mp3",
+            "translation_german": "Danke, Agent State Farm. Wie ein guter Nachbar. State Farm ist da. Cut. Hey, Arnold, ich höre Nachbar. Es ist Nachbar. Das ist, was ich gesagt habe. Nachbar. Nachbar. Nachbar. Nachbar. Lass uns noch einmal gehen. Wie ein guter Nachbar State Farm ist da Cut jetzt, was es ist Nachbar Nachbar Nachbar Nachbar Schnitt Nachbar ja Nachbar genau wie es auf einem Papier geschrieben ist diese Dame in der Geburt Schnitt schau dir das an. Das ist Arbeit. Mach einen guten Nachbar. Das war das Schaf. Und du weißt es. Es ist wie du kalt bist. Burr. Ja, ich bin kalt. Bah. Nachbar. Noch nicht. Ein guter Nachbar. Cut. Burr. Burr. Burr. Burr. Burr. Hey. May. Neighbor. Burr. Burr. Burr. Burr.",
+            "translation_chinese": "谢谢,国家农场代理.像一个好邻居. 国家农场是那里. 切. ,阿诺德,我听到了邻居.这是邻居. 这就是我说的. 邻居. 邻居. 邻居. 邻居. 再次去. 像一个好邻居国家农场是那里切. 现在是什么邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居. 邻居"
+        },
+        {
+            "text": " Feels like a dream, feels like magic. Now I believe I can have it. Ooh, ooh, Tamu. Ooh, ooh, Tamu. All of my wishes came true. Shop like a billionaire. Shop like a billionaire. Ooh, Tamu. Ooh, Tamu. Ooh, Tamu. Download the Tamu app and shop like a billionaire.",
+            "chunks": [
+                {
+                    "timestamp": [
+                        0.0,
+                        2.5
+                    ],
+                    "text": " Feels like a dream, feels like magic."
+                },
+                {
+                    "timestamp": [
+                        4.0,
+                        6.7
+                    ],
+                    "text": " Now I believe I can have it."
+                },
+                {
+                    "timestamp": [
+                        8.0,
+                        9.5
+                    ],
+                    "text": " Ooh, ooh, Tamu."
+                },
+                {
+                    "timestamp": [
+                        10.0,
+                        11.4
+                    ],
+                    "text": " Ooh, ooh, Tamu."
+                },
+                {
+                    "timestamp": [
+                        11.9,
+                        14.3
+                    ],
+                    "text": " All of my wishes came true."
+                },
+                {
+                    "timestamp": [
+                        15.1,
+                        17.4
+                    ],
+                    "text": " Shop like a billionaire."
+                },
+                {
+                    "timestamp": [
+                        18.7,
+                        21.3
+                    ],
+                    "text": " Shop like a billionaire."
+                },
+                {
+                    "timestamp": [
+                        22.5,
+                        23.5
+                    ],
+                    "text": " Ooh, Tamu."
+                },
+                {
+                    "timestamp": [
+                        23.7,
+                        29.72
+                    ],
+                    "text": " Ooh, Tamu. Ooh, Tamu. Download the Tamu app and shop like a billionaire."
+                }
+            ],
+            "audio_file": "Temu's Big Game Ad Encore TV Commercial 2024.mp3",
+            "translation_german": "Fühlt sich an wie ein Traum, fühlt sich an wie Magie. Jetzt glaube ich, dass ich es haben kann. Ooh, ooh, Tamu. Ooh, ooh, Tamu. Alle meine Wünsche wurden wahr. Shoppen wie ein Milliardär. Shoppen wie ein Milliardär. Ooh, Tamu. Ooh, Tamu. Ooh, Tamu. Laden Sie die Tamu-App herunter und kaufen wie ein Milliardär.",
+            "translation_chinese": "感觉像梦想,感觉像魔法.现在我相信我可以拥有它. ,,,,. 我的所有愿望都成真了. 像亿万富翁一样购物. ,. ,. ,. 下载Tamu应用程序,像亿万富翁一样购物."
+        },
+        {
+            "text": " Try to make friends. You want a Dorito? Hey everyone! The milk is handing out Doritos! Doritos? Doritos! You make friends.",
+            "chunks": [
+                {
+                    "timestamp": [
+                        0.0,
+                        2.0
+                    ],
+                    "text": " Try to make friends."
+                },
+                {
+                    "timestamp": [
+                        6.0,
+                        8.0
+                    ],
+                    "text": " You want a Dorito?"
+                },
+                {
+                    "timestamp": [
+                        8.0,
+                        12.0
+                    ],
+                    "text": " Hey everyone! The milk is handing out Doritos!"
+                },
+                {
+                    "timestamp": [
+                        12.0,
+                        13.0
+                    ],
+                    "text": " Doritos?"
+                },
+                {
+                    "timestamp": [
+                        13.0,
+                        15.0
+                    ],
+                    "text": " Doritos!"
+                },
+                {
+                    "timestamp": [
+                        29.08,
+                        null
+                    ],
+                    "text": " You make friends."
+                }
+            ],
+            "audio_file": "The New Kid Doritos Commercial.mp3",
+            "translation_german": "Ich will nicht, dass du mich umschlägst.",
+            "translation_chinese": "试着结交朋友.你想要多里托吗?,大家!牛奶正在分发多里托!多里托?多里托!你结交朋友."
+        },
+        {
+            "text": " You're leaving me? For a TurboTax expert who charges me less but gives me more. Sing it, Adam. A tax pro she's been thinking twice. Just believe TurboTax will beat your price. This is the tax break. It's time to move on to a TurboTax expert. This is a tax break up. This fall, switch to a TurboTax Live expert and we'll beat the price you paid your pro last tax season.",
+            "chunks": [
+                {
+                    "timestamp": [
+                        0.0,
+                        1.4
+                    ],
+                    "text": " You're leaving me?"
+                },
+                {
+                    "timestamp": [
+                        1.4,
+                        5.0
+                    ],
+                    "text": " For a TurboTax expert who charges me less but gives me more."
+                },
+                {
+                    "timestamp": [
+                        5.0,
+                        6.0
+                    ],
+                    "text": " Sing it, Adam."
+                },
+                {
+                    "timestamp": [
+                        6.0,
+                        9.0
+                    ],
+                    "text": " A tax pro she's been thinking twice."
+                },
+                {
+                    "timestamp": [
+                        9.0,
+                        12.0
+                    ],
+                    "text": " Just believe TurboTax will beat your price."
+                },
+                {
+                    "timestamp": [
+                        12.0,
+                        16.0
+                    ],
+                    "text": " This is the tax break."
+                },
+                {
+                    "timestamp": [
+                        18.0,
+                        21.0
+                    ],
+                    "text": " It's time to move on to a TurboTax expert."
+                },
+                {
+                    "timestamp": [
+                        21.0,
+                        23.0
+                    ],
+                    "text": " This is a tax break up."
+                },
+                {
+                    "timestamp": [
+                        23.0,
+                        26.22
+                    ],
+                    "text": " This fall, switch to a TurboTax Live expert and we'll beat the"
+                },
+                {
+                    "timestamp": [
+                        26.22,
+                        28.06
+                    ],
+                    "text": " price you paid your pro last tax season."
+                }
+            ],
+            "audio_file": "TurboTax 2024 Beat Your Price Commercial Tax Break-Up (Official TV Ad 30).mp3",
+            "translation_german": "Du verlässt mich? Für einen TurboTax-Experten, der mich weniger berechnet, aber mir mehr gibt. Singen Sie es, Adam. Ein Steuerprofi, den sie zweimal überlegt hat. Glauben Sie einfach, dass TurboTax Ihren Preis schlagen wird. Dies ist die Steuervergünstigung. Es ist Zeit, zu einem TurboTax-Experten zu wechseln. Dies ist eine Steuerpause. In diesem Herbst wechseln Sie zu einem TurboTax Live-Experten und wir werden den Preis schlagen, den Sie Ihrem Profi in der letzten Steuerjahrzeit bezahlt haben.",
+            "translation_chinese": "你离开我吗?为了一个收费较低但给我更多的TurboTax专家.唱吧,亚当.一个税务专家她已经想了两次.只是相信TurboTax会击败你的价格.这是税收减免.是时候转向TurboTax专家了.这是一个税收分离.今年秋天,转向TurboTax Live专家,我们会击败你上个税季支付的价格."
+        },
+        {
+            "text": " I can't believe they let us back in this place. What? No good? No. Oh. Mmm. Mmm. Mmm. There we go. Oh my gosh. Oh boy. So good! Oh. It's so... This one's real. Oh! Now that is a sandwich. I'll have what she's having.",
+            "chunks": [
+                {
+                    "timestamp": [
+                        0.0,
+                        2.0
+                    ],
+                    "text": " I can't believe they let us back in this place."
+                },
+                {
+                    "timestamp": [
+                        3.0,
+                        4.0
+                    ],
+                    "text": " What? No good?"
+                },
+                {
+                    "timestamp": [
+                        4.0,
+                        5.0
+                    ],
+                    "text": " No."
+                },
+                {
+                    "timestamp": [
+                        5.0,
+                        6.0
+                    ],
+                    "text": " Oh."
+                },
+                {
+                    "timestamp": [
+                        10.0,
+                        12.0
+                    ],
+                    "text": " Mmm. Mmm. Mmm."
+                },
+                {
+                    "timestamp": [
+                        13.0,
+                        14.0
+                    ],
+                    "text": " There we go."
+                },
+                {
+                    "timestamp": [
+                        14.0,
+                        15.0
+                    ],
+                    "text": " Oh my gosh."
+                },
+                {
+                    "timestamp": [
+                        15.0,
+                        16.0
+                    ],
+                    "text": " Oh boy."
+                },
+                {
+                    "timestamp": [
+                        16.0,
+                        17.0
+                    ],
+                    "text": " So good!"
+                },
+                {
+                    "timestamp": [
+                        17.0,
+                        18.0
+                    ],
+                    "text": " Oh."
+                },
+                {
+                    "timestamp": [
+                        18.0,
+                        19.0
+                    ],
+                    "text": " It's so..."
+                },
+                {
+                    "timestamp": [
+                        19.0,
+                        20.0
+                    ],
+                    "text": " This one's real."
+                },
+                {
+                    "timestamp": [
+                        20.0,
+                        21.0
+                    ],
+                    "text": " Oh!"
+                },
+                {
+                    "timestamp": [
+                        23.0,
+                        27.04
+                    ],
+                    "text": " Now that is a sandwich."
+                },
+                {
+                    "timestamp": [
+                        28.12,
+                        null
+                    ],
+                    "text": " I'll have what she's having."
+                }
+            ],
+            "audio_file": "When Sally Met Hellmann's 30 - Super Bowl Commercial 2025.mp3",
+            "translation_german": "Ich kann nicht glauben, dass sie uns wieder reinlassen. Was? Nicht gut? Nein. Oh. Mmm. Mmm. Mmm. Da sind wir.",
+            "translation_chinese": "我不敢相信他们让我们回到这个地方.什么?没有好?不......就这样...好!.这太好了.!这是一块三明治.我会吃她吃的."
+        },
+        {
+            "text": " Today you look delicious. Delicious? Why do you have the impression that you just only because I am a chocolate M&Ms? That's not true. What most important of you is the interior. My interior is pure chocolate with milk. And that is exactly what I love about you. And I was thinking that you were interested in my brain. That also chocolate? Oh, how are you?",
+            "chunks": [
+                {
+                    "timestamp": [
+                        0.0,
+                        2.0
+                    ],
+                    "text": " Today you look delicious."
+                },
+                {
+                    "timestamp": [
+                        2.0,
+                        3.0
+                    ],
+                    "text": " Delicious?"
+                },
+                {
+                    "timestamp": [
+                        3.0,
+                        7.0
+                    ],
+                    "text": " Why do you have the impression that you just only because I am a chocolate M&Ms?"
+                },
+                {
+                    "timestamp": [
+                        7.0,
+                        9.0
+                    ],
+                    "text": " That's not true."
+                },
+                {
+                    "timestamp": [
+                        9.0,
+                        11.0
+                    ],
+                    "text": " What most important of you is the interior."
+                },
+                {
+                    "timestamp": [
+                        11.0,
+                        14.0
+                    ],
+                    "text": " My interior is pure chocolate with milk."
+                },
+                {
+                    "timestamp": [
+                        14.0,
+                        17.0
+                    ],
+                    "text": " And that is exactly what I love about you."
+                },
+                {
+                    "timestamp": [
+                        17.0,
+                        21.0
+                    ],
+                    "text": " And I was thinking that you were interested in my brain."
+                },
+                {
+                    "timestamp": [
+                        21.0,
+                        23.0
+                    ],
+                    "text": " That also chocolate?"
+                },
+                {
+                    "timestamp": [
+                        26.0,
+                        null
+                    ],
+                    "text": " Oh, how are you?"
+                }
+            ],
+            "audio_file": "William Levy - M&M's commercial in Spanish with English subtitles.mp3",
+            "translation_german": "Heute siehst du köstlich aus. Köstlich? Warum hast du den Eindruck, dass du nur deshalb, weil ich ein Schokolademast bin? Das stimmt nicht. Das Wichtigste an dir ist das Innere. Mein Innere ist reine Schokolade mit Milch. Und genau das liebe ich an dir. Und ich dachte, dass du dich für mein Gehirn interessierst. Das ist auch Schokolade? Oh, wie geht es dir?",
+            "translation_chinese": "今天你看起来很好吃.很好吃?为什么你觉得你只是因为我是巧克力M&Ms?这是不真的.你最重要的是内部.我的内部是纯巧克力和牛奶.这正是我喜欢你的.我正想你对我的大脑感兴趣.那也是巧克力吗?,你怎么样?"
+        },
+        {
+            "text": " Am I a bad person? Tell me. Am I? I'm single-minded. I'm deceptive. I'm obsessive. I'm selfish. Does that make me a bad person? Am I a bad person? Am I? I have no empathy. I don't respect you. I'm never satisfied. I have an obsession with power. I'm irrational. I have zero remorse. I have no sense of compassion. I'm delusional. I'm maniacal. You think I'm a bad person? Tell me. Tell me. Tell me. Am I? I think I'm better than everyone else. I want to take what's yours and never give it back. What's mine is mine, and what's yours is fine. Am I a bad person? Tell me, am I? Does that make me a bad person? Tell me, does it?",
+            "chunks": [
+                {
+                    "timestamp": [
+                        0.0,
+                        2.0
+                    ],
+                    "text": " Am I a bad person?"
+                },
+                {
+                    "timestamp": [
+                        6.0,
+                        8.0
+                    ],
+                    "text": " Tell me. Am I?"
+                },
+                {
+                    "timestamp": [
+                        8.0,
+                        10.0
+                    ],
+                    "text": " I'm single-minded."
+                },
+                {
+                    "timestamp": [
+                        10.0,
+                        12.0
+                    ],
+                    "text": " I'm deceptive."
+                },
+                {
+                    "timestamp": [
+                        12.0,
+                        14.0
+                    ],
+                    "text": " I'm obsessive."
+                },
+                {
+                    "timestamp": [
+                        14.0,
+                        15.0
+                    ],
+                    "text": " I'm selfish."
+                },
+                {
+                    "timestamp": [
+                        15.0,
+                        17.0
+                    ],
+                    "text": " Does that make me a bad person?"
+                },
+                {
+                    "timestamp": [
+                        18.0,
+                        20.0
+                    ],
+                    "text": " Am I a bad person?"
+                },
+                {
+                    "timestamp": [
+                        20.0,
+                        22.0
+                    ],
+                    "text": " Am I?"
+                },
+                {
+                    "timestamp": [
+                        23.0,
+                        25.22
+                    ],
+                    "text": " I have no empathy."
+                },
+                {
+                    "timestamp": [
+                        27.22,
+                        28.12
+                    ],
+                    "text": " I don't respect you."
+                },
+                {
+                    "timestamp": [
+                        29.72,
+                        30.36
+                    ],
+                    "text": " I'm never satisfied."
+                },
+                {
+                    "timestamp": [
+                        32.92,
+                        37.62
+                    ],
+                    "text": " I have an obsession with power."
+                },
+                {
+                    "timestamp": [
+                        38.88,
+                        39.7
+                    ],
+                    "text": " I'm irrational."
+                },
+                {
+                    "timestamp": [
+                        41.38,
+                        41.84
+                    ],
+                    "text": " I have zero remorse."
+                },
+                {
+                    "timestamp": [
+                        43.82,
+                        44.52
+                    ],
+                    "text": " I have no sense of compassion."
+                },
+                {
+                    "timestamp": [
+                        67.0,
+                        67.12
+                    ],
+                    "text": " I'm delusional. I'm maniacal. You think I'm a bad person? Tell me. Tell me. Tell me. Am I? I think I'm better than everyone else. I want to take what's yours and never give it back. What's mine is mine, and what's yours is fine."
+                },
+                {
+                    "timestamp": [
+                        74.12,
+                        81.64
+                    ],
+                    "text": " Am I a bad person? Tell me, am I?"
+                },
+                {
+                    "timestamp": [
+                        86.78,
+                        null
+                    ],
+                    "text": " Does that make me a bad person? Tell me, does it?"
+                }
+            ],
+            "audio_file": "Winning Isn't For Everyone Am I a Bad Person Nike.mp3",
+            "translation_german": "Bin ich ein schlechter Mensch? Sag mir. Bin ich? Bin ich zielstrebig. Bin ich betrügerisch. Bin ich besessen. Bin ich egoistisch. Macht mich das zu einem schlechten Menschen? Bin ich ein schlechter Mensch? Bin ich? Ich habe kein Mitgefühl. Ich respektiere dich nicht. Ich bin nie zufrieden. Ich habe eine Besessenheit von Macht. Ich bin irrational. Ich habe keine Reue. Ich habe keinen Mitgefühl. Ich bin wahnhaft. Ich bin verrückt. Denkst du, ich bin ein schlechter Mensch? Sag mir. Sag mir. Sag mir. Sag mir. Bin ich? Ich denke, ich bin besser als alle anderen. Ich will, was dir gehört, nehmen und es nie zurückgeben. Was mir gehört, ist mir, und was dir gehört, ist in Ordnung. Bin ich ein schlechter Mensch? Sag mir, was ich bin? Macht mich das zu einem schlechten Menschen? Sag es mir?",
+            "translation_chinese": "我是一个坏人吗?告诉我.我吗?我是专注的.我是欺骗的.我是痴迷的.我是自私的.这使我成为一个坏人吗?我是一个坏人吗?我吗?我没有同情心.我不尊重你.我永远不满足.我对权力的痴迷.我是不理性.我没有悔恨.我没有同情心.我妄想.我是疯狂的.你认为我是一个坏人吗?告诉我.告诉我.告诉我.告诉我.我吗?我认为我比其他人好.我想拿走你的东西,永远不要回来.我的东西是我的,什么是好的.我是一个坏人吗?告诉我?我?这让我成为一个坏人吗?告诉我?"
+        }
+    ],
+    "stats": {
+        "model": "distil-whisper/distil-large-v3.5",
+        "total_video": 28,
+        "total_extract_audio_time_sec": 3.65,
+        "total_transcription_time_sec": 16.09,
+        "total_translation_time_sec": 138.28,
+        "average_total_time_per_video_sec": 5.64
+    }
+}

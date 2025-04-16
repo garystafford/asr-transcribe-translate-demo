@@ -1,0 +1,28 @@
+"""
+FFmpeg Utilities Module
+Author: Gary A. Stafford
+Date: 2025-04-15
+"""
+
+import logging
+import ffmpeg
+import json
+
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
+)
+
+def probe(media_file):
+    """
+    Probes the media file using ffmpeg to get metadata information.
+    Args:
+        media_file (str): Path to the media file.
+    Returns:
+        Dict: Metadata information of the media file.
+    """
+
+    probe = ffmpeg.probe(media_file)
+    logging.debug(json.dumps(probe, indent=4))
+    return probe
