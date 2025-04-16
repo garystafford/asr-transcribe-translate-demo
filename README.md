@@ -32,7 +32,7 @@ huggingface-cli download openai/whisper-tiny
 huggingface-cli download openai/whisper-small
 huggingface-cli download openai/whisper-medium
 huggingface-cli download openai/whisper-large-v3-turbo
-huggingface-cli download openai/whisper-large
+huggingface-cli download openai/whisper-large-v3
 
 huggingface-cli download facebook/nllb-200-distilled-1.3B
 ```
@@ -57,6 +57,7 @@ py check_gpu_config.py
 
 py asr_demo.py
 
+REM optionally, add model selection as command line argument (0-5)
 py asr_demo.py 3
 ```
 
