@@ -1,78 +1,156 @@
-# Automatic Speech Recognition (ASR) and Speech Translation Models for Batch Video Transcription and Machine Translation
+# Multi-Vector Semantic Search: Advanced Video Search with TwelveLabs and Amazon OpenSearch
 
-Code for the blog post, [Automatic Speech Recognition (ASR) and Speech Translation Models for Batch Video Transcription and Machine Translation](https://garystafford.medium.com/automatic-speech-recognition-asr-and-speech-translation-models-for-batch-video-transcription-and-243ca34bed06): Learn to use smaller task-specific open-weight transformer models to batch transcribe and translate speech from videos.
+Code for the Medium blog post, [Multi-Vector Semantic Search: Advanced Video Search with TwelveLabs and Amazon OpenSearch](https://garystafford.medium.com/multi-vector-semantic-search-advanced-video-search-with-twelve-labs-and-amazon-opensearch-7b81ba52c373), also on [LinkedIn](https://www.linkedin.com/pulse/multi-vector-semantic-search-advanced-video-twelve-labs-gary-stafford-dmjoc/?trackingId=H5lUSIgrTv6eBGlnmr%2Fo6g%3D%3D). How TwelveLabs AI Models and Amazon OpenSearch Serverless enable multi-vector semantic and hybrid search for video content.
 
-## Prepare Windows Environment
+![Architecture](twelve_labs_bedrock.png)
 
-### Computational Requirement
+## Repository Structure
 
-For the post, I hosted the models locally on an Intel Core i9 Windows 11-based workstation with a NVIDIA RTX 4080 SUPER graphics card containing 16 GB of GDDR6X memory (VRAM). Based on my experience, a minimum of 16 GB of GPU memory is required to run these models.
+```text
+.
+├── documents/                            # OpenSearch documents
+│   ├── pexels/
+├── output/                               # Generated analyses and embeddings
+│   ├── pexels/
+├── videos/                               # Source videos
+│   ├── pexels/
+├── sample_document.json                  # Sample OpenSearch document
+├── sample_text_embedding.json            # Sample dense vector embedding from text
+├── docker-compose.yml                    # OpenSearch Docker Swarm file
+└── twelve-labs-demo-nested-public.ipynb  # All code for blog post demonstration
+```
+
+## Usage Instructions
 
 ### Prerequisites
 
-To follow along with this post, please make sure you have installed the free [Visual Studio Build Tools](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2022) related to C++.
+- Python 3.12+
+- AWS credentials
+- Amazon OpenSearch Serverless collection
+- TwelveLabs API key
 
-A free Hugging Face account and [User Access Token](https://huggingface.co/docs/hub/security-tokens) are required for access. If you do not download the models in advance, they will be downloaded into the local cache the first time the application loads them.
+Have the following environment variables ready for Notebook:
 
-I tested this code with the latest version of Python 3.12 (3.12.9).
+```bash
+# AWS Credentials (or modify code to use alternative authentication method)
+AWS_REGION=<Your AWS Region>
+AWS_ACCESS_KEY_ID=<Your AWS Access Key ID>
+AWS_SECRET_ACCESS_KEY=<Your AWS Secret Access Key>
+AWS_SESSION_TOKEN=<Your AWS Session Token>
 
-### Install FFmpeg
+# TwelveLabs' API Key
+TL_API_KEY=<Your TL API Key>
 
-Download, unzip, and add FFmpeg bin path to PATH.
-
-### Download and Cache Models
-
-```bat
-python -m pip install "huggingface_hub[cli]" --upgrade
-
-huggingface-cli login --token <your_hf_token> --add-to-git-credential
-
-huggingface-cli download distil-whisper/distil-large-v3.5
-huggingface-cli download openai/whisper-tiny
-huggingface-cli download openai/whisper-small
-huggingface-cli download openai/whisper-medium
-huggingface-cli download openai/whisper-large-v3-turbo
-huggingface-cli download openai/whisper-large-v3
-
-huggingface-cli download facebook/nllb-200-distilled-1.3B
+# OpenSearch endpoint without 'http://' prefix
+OPENSEARCH_ENDPOINT=<Your OpenSearch Endpoint>
 ```
 
-### Create Python Virtual Environment and Install Dependencies
+### Installation
+
+Clone the repository and create the required directories:
+
+```bash
+git clone https://github.com/garystafford/twelve-labs-opensearch-demo.git
+cd twelve-labs-opensearch-demo
+```
+
+Mac:
+
+```bash
+mkdir -p "videos/pexels"
+mkdir -p "output/pexels"
+mkdir -p "documents/pexels"
+```
+
+Windows:
 
 ```bat
-python --version
+mkdir "videos\pexels"
+mkdir "output\pexels"
+mkdir "documents\pexels"
+```
 
+Create a Python virtual environment for the Jupyter Notebook:
+
+Mac:
+
+```bash
+python -m pip install virtualenv -Uq
+python -m venv .venv
+source .venv/bin/activate
+```
+
+Windows:
+
+```bat
 python -m venv .venv
 .venv\Scripts\activate
-
-python -m pip install pip --upgrade
-python -m pip install -r requirements.txt --upgrade
-python -m pip install flash-attn --no-build-isolation --upgrade
 ```
 
-## Run Script
+### Run the Code
 
-```bat
-py check_gpu_config.py
+Access the Jupyter Notebook for all code:
 
-py asr_demo.py
+[twelve-labs-demo-nested-public.ipynb](twelve-labs-demo-nested-public.ipynb)
 
-REM optionally, add model selection as command line argument (0-5)
-py asr_demo.py 3
+## Alternative: Running OpenSearch in Docker
+
+As an alternative to AWS, you can run OpenSearch locally using Docker. This is insecure and intended only for development environments.
+
+Mac:
+
+```bash
+docker swarm init
+
+SWARM_ID=$(docker node ls --format "{{.ID}}")
+docker stack deploy -c docker-compose.yml $SWARM_ID
+
+docker service ls
 ```
 
-## Deactivate and Delete Python Virtual Environment
+Windows:
 
 ```bat
-deactivate
-rmdir /s .venv
+docker swarm init
+
+for /f "delims=" %x in ('docker node ls --format "{{.ID}}"') do set SWARM_ID=%x
+docker stack deploy -c docker-compose.yml %SWARM_ID%
+
+docker service ls
 ```
 
-```bat
-C:\Users\garya\.cache\
-rmdir /s huggingface
+In the Jupyter Notebook, update the `os_client` to use the Docker-based OpenSearch instance:
+
+Existing Amazon OpenSearch Client:
+
+```python
+os_client = OpenSearch(
+    hosts=[{"host": os_host, "port": 443}],
+    http_auth=auth,
+    use_ssl=True,
+    verify_certs=True,
+    connection_class=RequestsHttpConnection,
+    pool_maxsize=20,
+)
+```
+
+Revised Docker-based OpenSearch Client:
+
+```python
+import warnings
+
+# Suppress warnings related to unverified HTTPS requests and SSL connections
+warnings.filterwarnings('ignore', message='Unverified HTTPS request')
+warnings.filterwarnings('ignore', message='Connecting to https://localhost:9200 using SSL')
+
+os_client = OpenSearch(
+    hosts=[{"host": "localhost", "port": 9200}],
+    http_auth=("admin", "OpenSearch123"),
+    use_ssl=True,
+    verify_certs=False,
+)
 ```
 
 ---
 
-_The contents of this repository represent my viewpoints and not of my past or current employers, including Amazon Web Services (AWS). All third-party libraries, modules, plugins, and SDKs are the property of their respective owners._
+_The contents of this repository represent my viewpoints and not those of my past or current employers, including Amazon Web Services (AWS). All third-party libraries, modules, plugins, and SDKs are the property of their respective owners._
